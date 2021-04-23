@@ -297,6 +297,8 @@
                                             <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Use
                                                 words such as "and," "then," "but," "a," "the,"
                                                 "this," and "that" to make your message clear.</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Make
+                                                sure that each term has only one meaning.</li>
                                         </ul>
                                     </section>
                                     <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_1_Connect_42_section_xv1_p3p_jpb" nd:nd-id="section_xv1_p3p_jpb">
@@ -320,8 +322,8 @@
                                             text for unintended linebreaks and punctuation marks
                                             (such as periods in place of commas). Translation tools
                                             may misinterpret such characters and split sentences
-                                            into artificial units. This can lead to translation
-                                            errors and inconsistencies.</p>
+                                            into separate units. This can lead to translation errors
+                                            and inconsistencies.</p>
                                         <div class="- topic/note note important note_important" css:background-color="rgba(255 , 202 , 45 , 0.1)" css:background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/important.svg')" css:background-position="0.5em 0.5em" css:background-repeat="no-repeat" css:border-bottom-color="rgb(255 , 202 , 45)" css:border-bottom-left-radius="11px" css:border-bottom-right-radius="11px" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(255 , 202 , 45)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(255 , 202 , 45)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(255 , 202 , 45)" css:border-top-left-radius="11px" css:border-top-right-radius="11px" css:border-top-style="solid" css:border-top-width="1px" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Note" css:padding-bottom="0.75em" css:padding-left="3em" css:padding-right="0.5em" css:padding-top="0.75em" id="unique_1_Connect_42_note_kv1_gbq_jpb" nd:nd-id="note_kv1_gbq_jpb" type="important"><span class="note__title" css:display="block" css:font-weight="bold" css:page-break-after="avoid">Important:</span> When
                                             localizing a DITA project, always send the translators
                                             your source files rather than the output, for example
