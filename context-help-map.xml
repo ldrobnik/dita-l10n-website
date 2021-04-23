@@ -6,10 +6,10 @@
                path="topics/1_writing_with_localization_in_mind/c_content_reuse.html"/>
    <appContext helpID="c_non_translatable_text"
                path="topics/1_writing_with_localization_in_mind/c_non_translatable_content.html"/>
-   <appContext helpID="c_localization_friendly_images"
-               path="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.html"/>
    <appContext helpID="c_glossaries"
                path="topics/1_writing_with_localization_in_mind/c_glossaries.html"/>
+   <appContext helpID="c_localization_friendly_images"
+               path="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.html"/>
    <appContext helpID="t_organizing_your_project_structure"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.html"/>
    <appContext helpID="c_localization_related_attributes"
