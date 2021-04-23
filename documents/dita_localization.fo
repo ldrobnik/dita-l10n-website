@@ -485,10 +485,10 @@
                                         project's folder structure.</fo:block></fo:block-container>
                                     <fo:block-container space-after="1em" space-before="1em"><fo:block end-indent="0" start-indent="0" role="Sect">
                                         <fo:block-container space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">When
-                                            translating a DITA project, it is important the
-                                            relationships between its files. To import your project
-                                            into memoQ without losing folder strucure, follow these
-                                            steps:</fo:block></fo:block-container>
+                                            translating a DITA project, it is important to preserve
+                                            the relationships between files. To import your project
+                                            into memoQ without losing the project's folder strucure,
+                                            follow these steps:</fo:block></fo:block-container>
                                     </fo:block></fo:block-container>
                                     <fo:block role="Sect" id="unique_9_Connect_42_steps_tqk_mnr_jpb">
                                         <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em" id="unique_9_Connect_42_steps_tqk_mnr_jpb" chfox:nd-id="steps_tqk_mnr_jpb">
@@ -542,16 +542,13 @@
                                             </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
                                             <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end" color="rgb(56 , 111 , 218)">10. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
                                                 <fo:inline>Click <fo:inline font-weight="bold">…</fo:inline> next to the <fo:inline font-weight="bold">Base
-                                                  path</fo:inline> field and choose the folder of your
-                                                  project.</fo:inline>
+                                                  path</fo:inline> field, choose the folder where your
+                                                  project is located, and click <fo:inline font-weight="bold">OK</fo:inline>.</fo:inline>
                                                 <fo:block>
                                                   <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_9_Connect_42_fig_hjq_1sr_jpb" chfox:nd-id="fig_hjq_1sr_jpb"><fo:block end-indent="0" start-indent="0"><fo:inline chfox:inch="true" max-width="100%" width="650px" id="unique_9_Connect_42_image_b54_p3s_jpb" chfox:nd-id="image_b54_p3s_jpb"><fo:inline><fo:external-graphic src="file:/C:/repozytoria/dita-l10n/images/memoq-base-path.png" fox:alt-text="The 'Add folder structure' dialog in memoQ" max-width="100%" scaling="uniform" width="650px" content-width="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                                 </fo:block>
                                             </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
-                                            <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end" color="rgb(56 , 111 , 218)">11. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>
-                                                <fo:inline>Click <fo:inline font-weight="bold">OK</fo:inline>.</fo:inline>
-                                            </fo:block></fo:list-item-body></fo:list-item>
-                                            <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end" color="rgb(56 , 111 , 218)">12. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end" color="rgb(56 , 111 , 218)">11. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
                                                 <fo:inline>In the <fo:inline font-weight="bold">Document import options</fo:inline> dialog, remove any
                                                   files you don't want to translate.</fo:inline>
                                                 <fo:block>
@@ -562,7 +559,7 @@
                                     </fo:block>
                                     <fo:block-container space-after="1em" space-before="1em" id="unique_9_Connect_42_result_ytl_vrr_jpb" chfox:nd-id="result_ytl_vrr_jpb"><fo:block end-indent="0" start-indent="0" role="Sect">Project files are ready for
                                             translation.<fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_9_Connect_42_fig_vyz_wsr_jpb" chfox:nd-id="fig_vyz_wsr_jpb"><fo:block end-indent="0" start-indent="0"><fo:inline chfox:inch="true" max-width="100%" width="800px" id="unique_9_Connect_42_image_q25_v3s_jpb" chfox:nd-id="image_q25_v3s_jpb"><fo:inline><fo:external-graphic src="file:/C:/repozytoria/dita-l10n/images/memoq-import-result.png" fox:alt-text="DITA project imported into memoQ" max-width="100%" scaling="uniform" width="800px" content-width="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container><fo:block-container background-color="rgba(0 , 120 , 160 , 0.09)" background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/note.svg')" background-position-horizontal="0.5em" background-position-vertical="0.5em" background-repeat="no-repeat" border-bottom-color="rgb(0 , 120 , 160)" fox:border-after-start-radius="11px" fox:border-after-end-radius="11px" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(0 , 120 , 160)" border-left-style="solid" border-left-width="1px" margin-left="0" border-right-color="rgb(0 , 120 , 160)" border-right-style="solid" border-right-width="1px" margin-right="0" border-top-color="rgb(0 , 120 , 160)" fox:border-before-start-radius="11px" fox:border-before-end-radius="11px" border-top-style="solid" border-top-width="1px" space-after="1em" space-before="1em" padding-bottom="0.75em" padding-left="3em" padding-right="0.5em" padding-top="0.75em" id="unique_9_Connect_42_note_xcv_3sr_jpb" chfox:nd-id="note_xcv_3sr_jpb"><fo:block end-indent="0" start-indent="0" role="Note"><fo:block font-weight="bold" page-break-after="avoid">Note:</fo:block> To export
-                                            a translated project, right-click the root folder and
+                                            a translated project, right-click on the root folder and
                                             choose <fo:inline><fo:inline font-weight="bold">Export</fo:inline><fo:inline font-weight="bold"> &gt;
                                                   </fo:inline><fo:inline font-weight="bold">Export
                                                   (Stored Path)</fo:inline></fo:inline>.</fo:block></fo:block-container></fo:block></fo:block-container>
@@ -590,7 +587,7 @@
                                         simplify your translation process in memoQ by creating a
                                         view containing only repetitions.</fo:block></fo:block-container>
                                     <fo:block-container space-after="1em" space-before="1em"><fo:block end-indent="0" start-indent="0" role="Sect">If your
-                                        DITA project contains a lot of repeated content, it may be
+                                        DITA project contains a lot of repetitive content, it may be
                                         useful to include all repetitions in one view. In order to
                                         create a view containing all repetitions, follow these
                                         steps:</fo:block></fo:block-container>
@@ -603,7 +600,7 @@
                                             </fo:block></fo:list-item-body></fo:list-item>
                                             <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end" color="rgb(56 , 111 , 218)">2. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
                                                 <fo:inline>Right-click the files and
-                                                  select <fo:inline font-weight="bold">Create
+                                                  choose <fo:inline font-weight="bold">Create
                                                   View</fo:inline>.</fo:inline>
                                                 <fo:block>
                                                   <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_11_Connect_42_fig_q5n_zyr_jpb" chfox:nd-id="fig_q5n_zyr_jpb"><fo:block end-indent="0" start-indent="0"><fo:inline chfox:inch="true" max-width="100%" width="800px" id="unique_11_Connect_42_image_ivs_jhs_jpb" chfox:nd-id="image_ivs_jhs_jpb"><fo:inline><fo:external-graphic src="file:/C:/repozytoria/dita-l10n/images/memoq-create-view.png" fox:alt-text="The 'Create View' option in memoQ 'Translations' screen" max-width="100%" scaling="uniform" width="800px" content-width="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
@@ -620,7 +617,7 @@
                                         </fo:list-block>
                                     </fo:block>
                                     <fo:block-container space-after="1em" space-before="1em" id="unique_11_Connect_42_result_uny_kzr_jpb" chfox:nd-id="result_uny_kzr_jpb"><fo:block end-indent="0" start-indent="0" role="Sect">You can work on a view
-                                        containing all repeated segments in your project.<fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_11_Connect_42_fig_jfc_b3s_jpb" chfox:nd-id="fig_jfc_b3s_jpb"><fo:block end-indent="0" start-indent="0"><fo:inline chfox:inch="true" max-width="100%" width="800px" id="unique_11_Connect_42_image_p3j_b3s_jpb" chfox:nd-id="image_p3j_b3s_jpb"><fo:inline><fo:external-graphic src="file:/C:/repozytoria/dita-l10n/images/memoq-repetitions.png" fox:alt-text="An example memoQ view containing repetitions" max-width="100%" scaling="uniform" width="800px" content-width="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container></fo:block></fo:block-container>
+                                        containing all repeating segments in your project.<fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_11_Connect_42_fig_jfc_b3s_jpb" chfox:nd-id="fig_jfc_b3s_jpb"><fo:block end-indent="0" start-indent="0"><fo:inline chfox:inch="true" max-width="100%" width="800px" id="unique_11_Connect_42_image_p3j_b3s_jpb" chfox:nd-id="image_p3j_b3s_jpb"><fo:inline><fo:external-graphic src="file:/C:/repozytoria/dita-l10n/images/memoq-repetitions.png" fox:alt-text="An example memoQ view containing repetitions" max-width="100%" scaling="uniform" width="800px" content-width="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container></fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
                                 <fo:block>
                                     <fo:block-container border-top-color="rgb(204 , 204 , 204)" border-top-style="solid" border-top-width="1px" space-before="0" padding-bottom="0.5em" padding-left="1.5em" margin-left="0" padding-right="1.5em" margin-right="0" padding-top="0.5em"><fo:block end-indent="0" start-indent="0">

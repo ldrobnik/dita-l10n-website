@@ -256,9 +256,9 @@
         </critdates></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
-            <p class="- topic/p ">When translating a DITA project, it is important the relationships between its files.
-                To import your project into memoQ without losing folder strucure, follow these
-                steps:</p>
+            <p class="- topic/p ">When translating a DITA project, it is important to preserve the relationships
+                between files. To import your project into memoQ without losing the project's folder
+                strucure, follow these steps:</p>
         </context>
         <steps class="- topic/ol task/steps " id="unique_9_Connect_42_steps_tqk_mnr_jpb" nd:nd-id="steps_tqk_mnr_jpb">
             <step class="- topic/li task/step ">
@@ -309,15 +309,13 @@
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Click <uicontrol class="+ topic/ph ui-d/uicontrol ">…</uicontrol> next to the <uicontrol class="+ topic/ph ui-d/uicontrol ">Base path</uicontrol>
-                    field and choose the folder of your project.</cmd>
+                    field, choose the folder where your project is located, and click
+                        <uicontrol class="+ topic/ph ui-d/uicontrol ">OK</uicontrol>.</cmd>
                 <info class="- topic/itemgroup task/info ">
                     <fig class="- topic/fig " id="unique_9_Connect_42_fig_hjq_1sr_jpb" nd:nd-id="fig_hjq_1sr_jpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/memoq-base-path.png" id="unique_9_Connect_42_image_b54_p3s_jpb" nd:nd-id="image_b54_p3s_jpb" placement="inline" width="650">
                             <alt class="- topic/alt ">The 'Add folder structure' dialog in memoQ</alt>
                         </image></fig>
                 </info>
-            </step>
-            <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Click <uicontrol class="+ topic/ph ui-d/uicontrol ">OK</uicontrol>.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">In the <uicontrol class="+ topic/ph ui-d/uicontrol ">Document import options</uicontrol> dialog, remove any files
@@ -331,8 +329,8 @@
         </steps>
         <result class="- topic/section task/result " id="unique_9_Connect_42_result_ytl_vrr_jpb" nd:nd-id="result_ytl_vrr_jpb">Project files are ready for translation.<fig class="- topic/fig " id="unique_9_Connect_42_fig_vyz_wsr_jpb" nd:nd-id="fig_vyz_wsr_jpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/memoq-import-result.png" id="unique_9_Connect_42_image_q25_v3s_jpb" nd:nd-id="image_q25_v3s_jpb" placement="inline" width="800">
                     <alt class="- topic/alt ">DITA project imported into memoQ</alt>
-                </image></fig><note class="- topic/note " id="unique_9_Connect_42_note_xcv_3sr_jpb" nd:nd-id="note_xcv_3sr_jpb">To export a translated project, right-click the root
-                folder and choose <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:3;112:48" xtrf="file:/C:/repozytoria/dita-l10n/topics/3_working_with_dita_files_in_memoq/t_importing_a_dita_project_into_memoq.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Export</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Export (Stored Path)</uicontrol></menucascade>.</note></result>
+                </image></fig><note class="- topic/note " id="unique_9_Connect_42_note_xcv_3sr_jpb" nd:nd-id="note_xcv_3sr_jpb">To export a translated project, right-click on the
+                root folder and choose <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:3;110:53" xtrf="file:/C:/repozytoria/dita-l10n/topics/3_working_with_dita_files_in_memoq/t_importing_a_dita_project_into_memoq.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Export</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Export (Stored Path)</uicontrol></menucascade>.</note></result>
     </taskbody>
 <related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Organizing your project structure</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link><link class="- topic/link " format="dita" href="#unique_11" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translating repetitions</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to simplify your translation process in memoQ by creating a view containing         only repetitions.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_11" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translating repetitions</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to simplify your translation process in memoQ by creating a view containing         only repetitions.</desc></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="t_working_with_views" oid="t_working_with_views" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Translating repetitions</ph></title>
@@ -344,7 +342,7 @@
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
     <taskbody class="- topic/body task/taskbody ">
-        <context class="- topic/section task/context ">If your DITA project contains a lot of repeated content, it may be useful to
+        <context class="- topic/section task/context ">If your DITA project contains a lot of repetitive content, it may be useful to
             include all repetitions in one view. In order to create a view containing all
             repetitions, follow these steps:</context>
         <steps class="- topic/ol task/steps " id="unique_11_Connect_42_steps_tvl_tyr_jpb" nd:nd-id="steps_tvl_tyr_jpb">
@@ -352,7 +350,7 @@
                 <cmd class="- topic/ph task/cmd ">Go to <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;13:41" xtrf="file:/C:/repozytoria/dita-l10n/topics/3_working_with_dita_files_in_memoq/t_translating%20repetitions.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Project home</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Translations</uicontrol></menucascade> and select all files.</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Right-click the files and select <uicontrol class="+ topic/ph ui-d/uicontrol ">Create View</uicontrol>.</cmd>
+                <cmd class="- topic/ph task/cmd ">Right-click the files and choose <uicontrol class="+ topic/ph ui-d/uicontrol ">Create View</uicontrol>.</cmd>
                 <info class="- topic/itemgroup task/info ">
                     <fig class="- topic/fig " id="unique_11_Connect_42_fig_q5n_zyr_jpb" nd:nd-id="fig_q5n_zyr_jpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/memoq-create-view.png" id="unique_11_Connect_42_image_ivs_jhs_jpb" nd:nd-id="image_ivs_jhs_jpb" placement="inline" width="800">
                             <alt class="- topic/alt ">The 'Create View' option in memoQ 'Translations' screen</alt>
@@ -370,7 +368,7 @@
                 </info>
             </step>
         </steps>
-        <result class="- topic/section task/result " id="unique_11_Connect_42_result_uny_kzr_jpb" nd:nd-id="result_uny_kzr_jpb">You can work on a view containing all repeated segments in
+        <result class="- topic/section task/result " id="unique_11_Connect_42_result_uny_kzr_jpb" nd:nd-id="result_uny_kzr_jpb">You can work on a view containing all repeating segments in
             your project.<fig class="- topic/fig " id="unique_11_Connect_42_fig_jfc_b3s_jpb" nd:nd-id="fig_jfc_b3s_jpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/memoq-repetitions.png" id="unique_11_Connect_42_image_p3j_b3s_jpb" nd:nd-id="image_p3j_b3s_jpb" placement="inline" width="800">
                     <alt class="- topic/alt ">An example memoQ view containing repetitions</alt>
                 </image></fig></result>
