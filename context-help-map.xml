@@ -17,7 +17,7 @@
    <appContext helpID="c_content_reuse"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.html"/>
    <appContext helpID="t_resolving_conrefs_and_keyrefs"
-               path="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_keyrefs_and_conkeyrefs.html"/>
+               path="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.html"/>
    <appContext helpID="t_importing_a_dita_project_into_memoq"
                path="topics/3_working_with_dita_files_in_memoq/t_importing_a_dita_project_into_memoq.html"/>
    <appContext helpID="t_working_with_views"
@@ -31,7 +31,7 @@
    <appContext helpID="c_content_reuse"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.html"/>
    <appContext helpID="t_resolving_conrefs_and_keyrefs"
-               path="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_keyrefs_and_conkeyrefs.html"/>
+               path="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.html"/>
    <appContext helpID="t_organizing_your_project_structure"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.html"/>
    <appContext helpID="c_non_translatable_text"
@@ -61,7 +61,7 @@
    <appContext helpID="c_localization_related_attributes"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_localization_related_attributes.html"/>
    <appContext helpID="t_resolving_conrefs_and_keyrefs"
-               path="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_keyrefs_and_conkeyrefs.html"/>
+               path="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.html"/>
    <appContext helpID="c_content_reuse"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.html"/>
    <appContext helpID="t_importing_a_dita_project_into_memoq"
