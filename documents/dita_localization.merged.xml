@@ -173,10 +173,11 @@
                 JPG or PNG files. Instead, use SVG files. Most CAT tools can translate text embedded
                 in SVG files.</p>
         </section>
+        <section class="- topic/section ">S</section>
         <section class="- topic/section " id="unique_2_Connect_42_section_fct_kkf_kpb" nd:nd-id="section_fct_kkf_kpb">
             <title class="- topic/title ">Callouts</title>
             <p class="- topic/p ">To simplify the localization process, avoid using descriptions within images.
-                Instead, use numbered callouts and explain them under the image</p>
+                Instead, use numbered callouts and explain them under the image.SS</p>
             <fig class="- topic/fig " id="unique_2_Connect_42_fig_fbl_rlf_kpb" nd:nd-id="fig_fbl_rlf_kpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/writing-callouts.png" id="unique_2_Connect_42_image_kld_slf_kpb" nd:nd-id="image_kld_slf_kpb" placement="inline" width="650">
                     <alt class="- topic/alt ">A 'fig' DITA element containing an image with two callouts that are
                         explained in a numbered list below the image</alt>
@@ -240,14 +241,6 @@
         </section>
         <section class="- topic/section " id="unique_7_Connect_42_section_qfv_l5d_jpb" nd:nd-id="section_qfv_l5d_jpb">
             <title class="- topic/title ">Keys</title>
-            <p class="- topic/p "/>
-        </section>
-        <section class="- topic/section " id="unique_7_Connect_42_section_lpr_dkk_jpb" nd:nd-id="section_lpr_dkk_jpb">
-            <title class="- topic/title ">Konkeyrefs</title>
-            <p class="- topic/p "/>
-        </section>
-        <section class="- topic/section " id="unique_7_Connect_42_section_n5b_2kk_jpb" nd:nd-id="section_n5b_2kk_jpb">
-            <title class="- topic/title ">Conditional text</title>
             <p class="- topic/p "/>
         </section>
     </conbody>

@@ -443,12 +443,13 @@
                                             SVG files. Most CAT tools can translate text embedded in
                                             SVG files.</p>
                                     </section>
+                                    <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">S</section>
                                     <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_2_Connect_42_section_fct_kkf_kpb" nd:nd-id="section_fct_kkf_kpb">
                                         <h3 class="- topic/title title sectiontitle" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Callouts</h3>
                                         <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">To simplify
                                             the localization process, avoid using descriptions
                                             within images. Instead, use numbered callouts and
-                                            explain them under the image</p>
+                                            explain them under the image.SS</p>
                                         <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" id="unique_2_Connect_42_fig_fbl_rlf_kpb" nd:nd-id="fig_fbl_rlf_kpb"><img alt="A 'fig' DITA element containing an image with two callouts that are explained in a numbered list below the image" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="A 'fig' DITA element containing an image with two callouts that are explained in a numbered list below the image" css:width="650px" href="file:/C:/repozytoria/dita-l10n/images/writing-callouts.png" id="unique_2_Connect_42_image_kld_slf_kpb" nd:nd-id="image_kld_slf_kpb" placement="inline" src="file:/C:/repozytoria/dita-l10n/images/writing-callouts.png" width="650"><css:content-on-element><css:uri extracted-image-height="495" extracted-image-width="781" uri="file:/C:/repozytoria/dita-l10n/images/writing-callouts.png"/></css:content-on-element></img></figure>
                                     </section>
                                     <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_2_Connect_42_section_lbr_lkf_kpb" nd:nd-id="section_lbr_lkf_kpb">
@@ -600,15 +601,6 @@
                                     </section>
                                     <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_section_qfv_l5d_jpb" nd:nd-id="section_qfv_l5d_jpb">
                                         <h3 class="- topic/title title sectiontitle" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Keys</h3>
-                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
-                                    </section>
-                                    <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_section_lpr_dkk_jpb" nd:nd-id="section_lpr_dkk_jpb">
-                                        <h3 class="- topic/title title sectiontitle" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Konkeyrefs</h3>
-                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
-                                    </section>
-                                    <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_section_n5b_2kk_jpb" nd:nd-id="section_n5b_2kk_jpb">
-                                        <h3 class="- topic/title title sectiontitle" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Conditional
-                                            text</h3>
                                         <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
                                     </section>
                                 </div>
