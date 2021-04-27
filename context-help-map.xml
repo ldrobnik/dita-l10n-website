@@ -13,7 +13,7 @@
    <appContext helpID="c_localization_related_attributes"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.html"/>
    <appContext helpID="c_text_sorting"
-               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting.html"/>
+               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting_and_direction.html"/>
    <appContext helpID="c_content_reuse"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.html"/>
    <appContext helpID="t_resolving_conrefs_and_keyrefs"
@@ -57,7 +57,7 @@
    <appContext helpID="c_non_translatable_text"
                path="topics/1_writing_with_localization_in_mind/c_non_translatable_content.html"/>
    <appContext helpID="c_text_sorting"
-               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting.html"/>
+               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting_and_direction.html"/>
    <appContext helpID="c_localization_related_attributes"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.html"/>
    <appContext helpID="t_resolving_conrefs_and_keyrefs"
