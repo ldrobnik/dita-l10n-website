@@ -11,7 +11,7 @@
    <appContext helpID="c_project_structure"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.html"/>
    <appContext helpID="c_localization_related_attributes"
-               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_localization_related_attributes.html"/>
+               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.html"/>
    <appContext helpID="c_text_sorting"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting.html"/>
    <appContext helpID="c_content_reuse"
@@ -37,7 +37,7 @@
    <appContext helpID="c_project_structure"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.html"/>
    <appContext helpID="c_localization_related_attributes"
-               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_localization_related_attributes.html"/>
+               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.html"/>
    <appContext helpID="c_localization_friendly_images"
                path="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.html"/>
    <appContext helpID="c_translation_friendly_text"
@@ -53,13 +53,13 @@
    <appContext helpID="c_content_reuse"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.html"/>
    <appContext helpID="c_localization_related_attributes"
-               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_localization_related_attributes.html"/>
+               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.html"/>
    <appContext helpID="c_non_translatable_text"
                path="topics/1_writing_with_localization_in_mind/c_non_translatable_content.html"/>
    <appContext helpID="c_text_sorting"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting.html"/>
    <appContext helpID="c_localization_related_attributes"
-               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_localization_related_attributes.html"/>
+               path="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.html"/>
    <appContext helpID="t_resolving_conrefs_and_keyrefs"
                path="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.html"/>
    <appContext helpID="c_content_reuse"
