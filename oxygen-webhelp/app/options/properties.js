@@ -4,7 +4,7 @@ define(
     "webhelp.enable.search.autocomplete" : "true",
     "webhelp.enable.search.kuromoji.js" : "true",
     "webhelp.enable.template.js.module.loading" : "no",
-    "webhelp.language" : "en",
+    "webhelp.language" : "en-US",
     "webhelp.publication.toc.links" : "chapter",
     "webhelp.publication.toc.tooltip.position" : "right",
     "webhelp.search.enable.pagination" : "true",
