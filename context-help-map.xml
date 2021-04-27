@@ -18,6 +18,15 @@
                path="topics/t_importing_a_dita_project_into_memoq.html"/>
    <appContext helpID="t_working_with_views"
                path="topics/t_translating_repetitions.html"/>
+   <appContext helpID="r_glossary" path="topics/glossary/r_glossary.html#r_glossary"/>
+   <appContext helpID="g_computer_aided_translation"
+               path="topics/glossary/r_glossary.html#g_computer_aided_translation"/>
+   <appContext helpID="g_csv" path="topics/glossary/r_glossary.html#g_csv"/>
+   <appContext helpID="g_dita" path="topics/glossary/r_glossary.html#g_dita"/>
+   <appContext helpID="g_memoq" path="topics/glossary/r_glossary.html#g_memoq"/>
+   <appContext helpID="g_oxygen" path="topics/glossary/r_glossary.html#g_oxygen"/>
+   <appContext helpID="g_svg" path="topics/glossary/r_glossary.html#g_svg"/>
+   <appContext helpID="g_xml" path="topics/glossary/r_glossary.html#g_xml"/>
    <appContext helpID="c_translation_friendly_text"
                path="topics/c_translation_friendly_text.html"/>
    <appContext helpID="c_localization_friendly_images"
