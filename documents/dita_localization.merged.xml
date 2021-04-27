@@ -16,7 +16,7 @@
     </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title class="- topic/title ">How to prepare DITA content for localization</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     <title class="- topic/title ">How to prepare DITA content for localization</title>
     
-    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Writing with localization in mind"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d291e33">Writing with localization in mind</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_translation_friendly_text"><resourceid appid="c_translation_friendly_text" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Translation-friendly text</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Writing with localization in mind"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d292e33">Writing with localization in mind</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_translation_friendly_text"><resourceid appid="c_translation_friendly_text" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Translation-friendly text</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -37,7 +37,7 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></topicmeta></topicref></topichead>
-    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Preparing content in oXygen"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d291e131">Preparing content in oXygen</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_project_structure"><resourceid appid="c_project_structure" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Project structure</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to organize your project to make localization easier.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Preparing content in oXygen"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d292e131">Preparing content in oXygen</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_project_structure"><resourceid appid="c_project_structure" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Project structure</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to organize your project to make localization easier.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -63,7 +63,7 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></topicmeta></topicref></topichead>
-    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Translating content in memoQ"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d291e268">Translating content in memoQ</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_importing_a_dita_project_into_memoq"><resourceid appid="t_importing_a_dita_project_into_memoq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Importing a DITA project into memoQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to import your DITA project into <term class="- topic/term " href="topics/glossary/g_memoq.dita" keyref="g_memoq"/> while preserving the project's folder structure.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Translating content in memoQ"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d292e268">Translating content in memoQ</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_importing_a_dita_project_into_memoq"><resourceid appid="t_importing_a_dita_project_into_memoq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Importing a DITA project into memoQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to import your DITA project into <term class="- topic/term " href="topics/glossary/g_memoq.dita" keyref="g_memoq"/> while preserving the project's folder structure.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -76,7 +76,7 @@
         </critdates></topicmeta></topicref></topichead>
     <?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?>
     
-</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d291e33" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Writing with localization in mind</ph></title><concept class="- topic/topic concept/concept " dir="ltr" id="unique_1" topicrefclass="- map/topicref " nd:nd-id="c_translation_friendly_text" oid="c_translation_friendly_text" specializations="@props/deliveryTarget" xml:lang="en-US">
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d292e33" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Writing with localization in mind</ph></title><concept class="- topic/topic concept/concept " dir="ltr" id="unique_1" topicrefclass="- map/topicref " nd:nd-id="c_translation_friendly_text" oid="c_translation_friendly_text" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Translation-friendly text</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn a few tips to make your text easier to translate and less likely to cause
         translation errors.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
@@ -121,7 +121,7 @@
         <section class="- topic/section " id="unique_1_Connect_42_section_lnc_1kp_jpb" nd:nd-id="section_lnc_1kp_jpb">
             <title class="- topic/title ">Formating</title>
             <p class="- topic/p ">Search your text for unintended linebreaks and punctuation marks (such as periods in
-                place of commas). <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_2" keyref="g_computer_aided_translation" type="glossentry"><?ditaot gentext?>computer-assisted translation</abbreviated-form> tools
+                place of commas). <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_2" keyref="g_cat" type="glossentry"><?ditaot gentext?>CAT</abbreviated-form> tools
                 may misinterpret such characters and split sentences into separate units. This can
                 lead to translation errors and inconsistencies.</p>
             <p class="- topic/p ">Avoid using pagebreaks and empty lines to layout your document. The same content can
@@ -178,7 +178,7 @@
                 term in various ways. Giving them a glossary of approved translations can increase
                 the consistency of terminology in one project or different projects concerning the
                 same product.</p>
-            <note class="- topic/note " id="unique_6_Connect_42_note_owy_djl_kpb" nd:nd-id="note_owy_djl_kpb">Most <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_2" keyref="g_computer_aided_translation" type="glossentry"><?ditaot gentext?>computer-assisted translation</abbreviated-form> tools enable automatic terminology checks to ensure
+            <note class="- topic/note " id="unique_6_Connect_42_note_owy_djl_kpb" nd:nd-id="note_owy_djl_kpb">Most <term class="- topic/term " href="#unique_2" keyref="g_cat" type="glossentry"><?ditaot gentext?>CAT</term> tools enable automatic terminology checks to ensure
                 a translator has used terms from the glossary. Although such checks are less useful
                 in languages in which the same word can have various grammatical forms .</note>
         </section>
@@ -203,7 +203,7 @@
             <p class="- topic/p ">Glossaries (called term bases) can be developed directly in a CAT tool. Most CAT
                 tools have their own term base format, but you can use a universal format called
                 TermBase eXchange (TBX) to exchange term bases between different tools.</p>
-            <p class="- topic/p ">You can also prepare a glossary as a <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_8" keyref="g_csv" type="glossentry"><?ditaot gentext?>CSV</abbreviated-form> file in a
+            <p class="- topic/p ">You can also prepare a glossary as a <term class="- topic/term " href="#unique_8" keyref="g_csv" type="glossentry"><?ditaot gentext?>CSV</term> file in a
                 spreadsheet editor and then import it into a CAT tool.</p>
             <fig class="- topic/fig " id="unique_6_Connect_42_fig_cjc_mml_kpb" nd:nd-id="fig_cjc_mml_kpb"><title class="- topic/title ">A simple bilingual glossary developed in a spreadsheet editor</title><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/writing-glossary.png" id="unique_6_Connect_42_image_urr_4pl_kpb" nd:nd-id="image_urr_4pl_kpb" placement="inline">
                     <alt class="- topic/alt ">A simple bilingual glossary developed in a spreadsheet editor</alt>
@@ -222,8 +222,8 @@
         <section class="- topic/section " id="unique_3_Connect_42_section_rqh_kkf_kpb" nd:nd-id="section_rqh_kkf_kpb">
             <title class="- topic/title ">Image format</title>
             <p class="- topic/p ">If your images contain text that needs to be localized, avoid using bitmaps, such as
-                JPG or PNG files. Instead, use <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_9" keyref="g_svg" type="glossentry"><?ditaot gentext?>SVG</abbreviated-form> files. Most
-                    <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_2" keyref="g_computer_aided_translation" type="glossentry"><?ditaot gentext?>computer-assisted translation</abbreviated-form> tools can translate
+                JPG or PNG files. Instead, use <term class="- topic/term " href="#unique_9" keyref="g_svg" type="glossentry"><?ditaot gentext?>SVG</term> files. Most
+                    <term class="- topic/term " href="#unique_2" keyref="g_cat" type="glossentry"><?ditaot gentext?>CAT</term> tools can translate
                 text contained in SVG files.</p>
         </section>
         <section class="- topic/section " id="unique_3_Connect_42_section_fct_kkf_kpb" nd:nd-id="section_fct_kkf_kpb">
@@ -242,7 +242,7 @@
                 additional steps to prepare UI screens in target languages.</p>
         </section>
     </conbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translation-friendly text</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translation-friendly text</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</desc></link><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Non-translatable content</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about types of content that you may wish to leave untranslated.</desc></link></linkpool></related-links></concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d291e131" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Preparing content in oXygen</ph></title><concept class="- topic/topic concept/concept " dir="ltr" id="unique_4" topicrefclass="- map/topicref " nd:nd-id="c_project_structure" oid="c_project_structure" specializations="@props/deliveryTarget" xml:lang="en-US">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translation-friendly text</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translation-friendly text</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</desc></link><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Non-translatable content</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about types of content that you may wish to leave untranslated.</desc></link></linkpool></related-links></concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d292e131" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Preparing content in oXygen</ph></title><concept class="- topic/topic concept/concept " dir="ltr" id="unique_4" topicrefclass="- map/topicref " nd:nd-id="c_project_structure" oid="c_project_structure" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Project structure</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn how to organize your project to make localization easier.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
@@ -456,7 +456,7 @@
                         references are replaced with appropriate content.</alt>
                 </image></fig></result>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_10" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Content reuse</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about best practices of reusing content with conrefs and keyrefs to avoid         problems with localization.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_10" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Content reuse</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about best practices of reusing content with conrefs and keyrefs to avoid         problems with localization.</desc></link></linkpool></related-links></task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d291e268" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Translating content in memoQ</ph></title><task class="- topic/topic task/task " dir="ltr" id="unique_11" topicrefclass="- map/topicref " nd:nd-id="t_importing_a_dita_project_into_memoq" oid="t_importing_a_dita_project_into_memoq" specializations="@props/deliveryTarget" xml:lang="en-US">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_10" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Content reuse</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about best practices of reusing content with conrefs and keyrefs to avoid         problems with localization.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_10" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Content reuse</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about best practices of reusing content with conrefs and keyrefs to avoid         problems with localization.</desc></link></linkpool></related-links></task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d292e268" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Translating content in memoQ</ph></title><task class="- topic/topic task/task " dir="ltr" id="unique_11" topicrefclass="- map/topicref " nd:nd-id="t_importing_a_dita_project_into_memoq" oid="t_importing_a_dita_project_into_memoq" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Importing a DITA project into memoQ</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn how to import your DITA project into <term class="- topic/term " href="#unique_12" keyref="g_memoq" type="glossentry"><?ditaot gentext?>memoQ</term> while preserving the project's folder structure.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
@@ -591,9 +591,9 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
-<glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_2" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_computer_aided_translation" oid="g_computer_aided_translation" specializations="@props/deliveryTarget" xml:lang="en-US">
-    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">computer-assisted translation</ph></glossterm>
-    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">the use of software tools (such as translation memory tools and terminology managers)
+<glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_2" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_cat" oid="g_cat" specializations="@props/deliveryTarget" xml:lang="en-US">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">CAT</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">computer-assisted translation; the use of software tools (such as translation memory tools and terminology managers)
         to assist a human translator in the translation process</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
@@ -603,15 +603,10 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
-    <glossBody class="- topic/body concept/conbody glossentry/glossBody ">
-        <glossSurfaceForm class="- topic/p concept/p glossentry/glossSurfaceForm ">CAT (computer-assisted translation)</glossSurfaceForm>
-        <glossAlt class="- topic/section concept/section glossentry/glossAlt " id="unique_2_Connect_42_glossAlt_g_computer_aided_translation" nd:nd-id="glossAlt_g_computer_aided_translation">
-            <glossAcronym class="- topic/title concept/title glossentry/glossAcronym ">CAT</glossAcronym>
-        </glossAlt>
-    </glossBody>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_8" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_csv" oid="g_csv" specializations="@props/deliveryTarget" xml:lang="en-US">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">CSV</ph></glossterm>
-    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">a text file format that uses commas to separate values</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">comma-separated values; a text file format that uses commas to separate
+        values</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><copyright class="- topic/copyright ">
@@ -620,16 +615,10 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
-    <glossBody class="- topic/body concept/conbody glossentry/glossBody ">
-        <glossSurfaceForm class="- topic/p concept/p glossentry/glossSurfaceForm ">CSV (Comma-Separated Values)</glossSurfaceForm>
-        <glossAlt class="- topic/section concept/section glossentry/glossAlt " id="unique_8_Connect_42_glossAlt_g_csv" nd:nd-id="glossAlt_g_csv">
-            <glossAcronym class="- topic/title concept/title glossentry/glossAcronym ">CSV</glossAcronym>
-        </glossAlt>
-    </glossBody>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_18" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_dita" oid="g_dita" specializations="@props/deliveryTarget" xml:lang="en-US">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">DITA</ph></glossterm>
-    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">a standard <term class="- topic/term " href="#unique_19" keyref="g_xml" type="glossentry"><?ditaot gentext?>XML</term>-based architecture for creating topic-based
-        documentation</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Darwin information typing architecture; a standard <term class="- topic/term " href="#unique_19" keyref="g_xml" type="glossentry"><?ditaot gentext?>XML</term>-based
+        architecture for creating topic-based documentation</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><copyright class="- topic/copyright ">
@@ -638,12 +627,6 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
-    <glossBody class="- topic/body concept/conbody glossentry/glossBody ">
-        <glossSurfaceForm class="- topic/p concept/p glossentry/glossSurfaceForm ">DITA (Darwin Information Typing Architecture)</glossSurfaceForm>
-        <glossAlt class="- topic/section concept/section glossentry/glossAlt " id="unique_18_Connect_42_glossAlt_g_dita" nd:nd-id="glossAlt_g_dita">
-            <glossAcronym class="- topic/title concept/title glossentry/glossAcronym ">DITA</glossAcronym>
-        </glossAlt>
-    </glossBody>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_12" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_memoq" oid="g_memoq" specializations="@props/deliveryTarget" xml:lang="en-US">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">memoQ</ph></glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">a computer-assisted translation (CAT) software suite that runs on Microsoft Windows
@@ -658,8 +641,8 @@
         </critdates></prolog>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_13" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_oxygen" oid="g_oxygen" specializations="@props/deliveryTarget" xml:lang="en-US">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">oXygen XML Editor</ph></glossterm>
-    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">a popular XML editor offering advanced features for working with DITA
-        projects</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">a popular <term class="- topic/term " href="#unique_19" keyref="g_xml" type="glossentry"><?ditaot gentext?>XML</term> editor offering advanced features for working with
+            <term class="- topic/term " href="#unique_18" keyref="g_dita" type="glossentry"><?ditaot gentext?>DITA</term>projects</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><copyright class="- topic/copyright ">
@@ -668,14 +651,10 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
-    <glossBody class="- topic/body concept/conbody glossentry/glossBody ">
-        <glossAlt class="- topic/section concept/section glossentry/glossAlt " id="unique_13_Connect_42_glossAlt_g_oxygen" nd:nd-id="glossAlt_g_oxygen">
-            <glossShortForm class="- topic/title concept/title glossentry/glossShortForm ">oXygen</glossShortForm>
-        </glossAlt>
-    </glossBody>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_9" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_svg" oid="g_svg" specializations="@props/deliveryTarget" xml:lang="en-US">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">SVG</ph></glossterm>
-    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">an <term class="- topic/term " href="#unique_19" keyref="g_xml" type="glossentry"><?ditaot gentext?>XML</term>-based vector graphics format</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">scalable vector graphics; an <term class="- topic/term " href="#unique_19" keyref="g_xml" type="glossentry"><?ditaot gentext?>XML</term>-based vector graphics
+        format</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><copyright class="- topic/copyright ">
@@ -684,16 +663,10 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
-    <glossBody class="- topic/body concept/conbody glossentry/glossBody ">
-        <glossSurfaceForm class="- topic/p concept/p glossentry/glossSurfaceForm ">SVG (Scalable Vector Graphics)</glossSurfaceForm>
-        <glossAlt class="- topic/section concept/section glossentry/glossAlt " id="unique_9_Connect_42_glossAlt_g_svg" nd:nd-id="glossAlt_g_svg">
-            <glossAcronym class="- topic/title concept/title glossentry/glossAcronym ">SVG</glossAcronym>
-        </glossAlt>
-    </glossBody>
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_19" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_xml" oid="g_xml" specializations="@props/deliveryTarget" xml:lang="en-US">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">XML</ph></glossterm>
-    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">a markup language designed to store and transport data in a format that is both
-        human-readable and machine-readable</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">extensible markup language; a markup language designed to store and transport data in
+        a format that is both human-readable and machine-readable</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><copyright class="- topic/copyright ">
@@ -702,10 +675,4 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
-    <glossBody class="- topic/body concept/conbody glossentry/glossBody ">
-        <glossSurfaceForm class="- topic/p concept/p glossentry/glossSurfaceForm ">XML (eXtensible Markup Language)</glossSurfaceForm>
-        <glossAlt class="- topic/section concept/section glossentry/glossAlt " id="unique_19_Connect_42_glossAlt_onx_m2v_kpb" nd:nd-id="glossAlt_onx_m2v_kpb">
-            <glossAcronym class="- topic/title concept/title glossentry/glossAcronym ">XML</glossAcronym>
-        </glossAlt>
-    </glossBody>
 </glossentry></reference></map>
