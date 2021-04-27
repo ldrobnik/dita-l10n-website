@@ -557,7 +557,7 @@
             repetitions, follow these steps:</context>
         <steps class="- topic/ol task/steps " id="unique_11_Connect_42_steps_tvl_tyr_jpb" nd:nd-id="steps_tvl_tyr_jpb">
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Go to <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;13:41" xtrf="file:/C:/repozytoria/dita-l10n/topics/t_translating%20repetitions.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Project home</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Translations</uicontrol></menucascade> and select all files.</cmd>
+                <cmd class="- topic/ph task/cmd ">Go to <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;13:41" xtrf="file:/C:/repozytoria/dita-l10n/topics/t_translating_repetitions.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Project home</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Translations</uicontrol></menucascade> and select all files.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Right-click the files and choose <uicontrol class="+ topic/ph ui-d/uicontrol ">Create View</uicontrol>.</cmd>
