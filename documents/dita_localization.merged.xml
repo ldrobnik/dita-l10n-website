@@ -397,9 +397,9 @@
         <section class="- topic/section " id="unique_10_Connect_42_section_qfv_l5d_jpb" nd:nd-id="section_qfv_l5d_jpb">
             <title class="- topic/title ">Handling keyrefs</title>
             <p class="- topic/p ">You can reference keywords using the <codeph class="+ topic/ph pr-d/codeph ">keyref</codeph> attribute. Keyrefs can
-                be used for standard text or expressions that can change, such as product names.<fig class="- topic/fig " id="unique_10_Connect_42_fig_jdn_fyt_kpb" nd:nd-id="fig_jdn_fyt_kpb"><title class="- topic/title ">Example of keyword referencing in DITA</title><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-keyrefs.svg" id="unique_10_Connect_42_image_fct_5b5_kpb" nd:nd-id="image_fct_5b5_kpb" placement="inline"/><image class="- topic/image " placement="inline">
+                be used for standard text or expressions that can change, such as product names.<fig class="- topic/fig " id="unique_10_Connect_42_fig_jdn_fyt_kpb" nd:nd-id="fig_jdn_fyt_kpb"><title class="- topic/title ">Example of keyword referencing in DITA</title><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-keyrefs.svg" id="unique_10_Connect_42_image_fct_5b5_kpb" nd:nd-id="image_fct_5b5_kpb" placement="inline">
                         <alt class="- topic/alt ">Example of using keydef and keyword elements in DITA</alt>
-                    </image></fig></p>
+                        </image></fig></p>
             <p class="- topic/p ">When used improperly, keyrefs can lead to translation errors. You can avoid such
                 errors by following these tips:<ul class="- topic/ul " id="unique_10_Connect_42_ul_w43_qvt_kpb" nd:nd-id="ul_w43_qvt_kpb">
                     <li class="- topic/li ">Use keyrefs for terms that do not change their grammatical form, such as
