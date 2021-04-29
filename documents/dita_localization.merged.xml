@@ -16,12 +16,12 @@
     </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title class="- topic/title ">How to prepare DITA content for localization</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     <title class="- topic/title ">How to prepare DITA content for localization</title>
     
-    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Writing with localization in mind"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d290e33">Writing with localization in mind</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_translation_friendly_text"><resourceid appid="c_translation_friendly_text" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Translation-friendly text</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Writing with localization in mind"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d286e33">Writing with localization in mind</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_translation_friendly_text"><resourceid appid="c_translation_friendly_text" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Translation-friendly text</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
-        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_non_translatable_text"><resourceid appid="c_non_translatable_text" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Non-translatable content</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn about types of content that you may wish to leave untranslated.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_non_translatable_text"><resourceid appid="c_non_translatable_text" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Non-translatable content</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn about types of content that you may not want to translate.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -37,7 +37,7 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></topicmeta></topicref></topichead>
-    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Preparing content in oXygen"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d290e131">Preparing content in oXygen</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_project_structure"><resourceid appid="c_project_structure" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Project structure</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how the structure your project can make localization easier.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Preparing content in oXygen"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d286e131">Preparing content in oXygen</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_project_structure"><resourceid appid="c_project_structure" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Project structure</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how the structure your project can make localization easier.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -47,7 +47,7 @@
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
-        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_text_sorting"><resourceid appid="c_text_sorting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Text sorting and direction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to adjust text sorting and text direction in localized files.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_text_sorting"><resourceid appid="c_text_sorting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Text sorting and direction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to adjust text sorting and text direction in localized files.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -57,13 +57,13 @@
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
-        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_resolving_conrefs_and_keyrefs"><resourceid appid="t_resolving_conrefs_and_keyrefs" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Resolving conrefs and keyrefs</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_resolving_conrefs_and_keyrefs"><resourceid appid="t_resolving_conrefs_and_keyrefs" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Resolving conrefs and keyrefs</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></topicmeta></topicref></topichead>
-    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Translating content in memoQ"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d290e259">Translating content in memoQ</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_importing_a_dita_project_into_memoq"><resourceid appid="t_importing_a_dita_project_into_memoq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Importing a DITA project into memoQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to import your DITA project into <term class="- topic/term " href="topics/glossary/g_memoq.dita" keyref="g_memoq"/> while preserving the project's folder structure.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Translating content in memoQ"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d286e259">Translating content in memoQ</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_importing_a_dita_project_into_memoq"><resourceid appid="t_importing_a_dita_project_into_memoq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Importing a DITA project into memoQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to import your DITA project into memoQ while preserving the project's         folder structure.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -76,7 +76,7 @@
         </critdates></topicmeta></topicref></topichead>
     <?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?>
     
-</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d290e33" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Writing with localization in mind</ph></title><concept class="- topic/topic concept/concept " dir="ltr" id="unique_1" topicrefclass="- map/topicref " nd:nd-id="c_translation_friendly_text" oid="c_translation_friendly_text" specializations="@props/deliveryTarget" xml:lang="en-US">
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d286e33" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Writing with localization in mind</ph></title><concept class="- topic/topic concept/concept " dir="ltr" id="unique_1" topicrefclass="- map/topicref " nd:nd-id="c_translation_friendly_text" oid="c_translation_friendly_text" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Translation-friendly text</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn a few tips to make your text easier to translate and less likely to cause
         translation errors.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
@@ -121,9 +121,9 @@
         <section class="- topic/section " id="unique_1_Connect_42_section_lnc_1kp_jpb" nd:nd-id="section_lnc_1kp_jpb">
             <title class="- topic/title ">Formating</title>
             <p class="- topic/p ">Search your text for unintended linebreaks and punctuation marks (such as periods in
-                place of commas). <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_2" keyref="g_cat" type="glossentry"><?ditaot gentext?>CAT</abbreviated-form> tools
-                may misinterpret such characters and split sentences into separate units. This can
-                lead to translation errors and inconsistencies.</p>
+                place of commas). <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_2" keyref="g_cat" type="glossentry"><?ditaot gentext?>CAT</abbreviated-form> tools may misinterpret such
+                characters and split sentences into separate units. This can lead to translation
+                errors and inconsistencies.</p>
             <p class="- topic/p ">Avoid using pagebreaks and empty lines to layout your document. The same content can
                 have a different volume in different languages.</p>
             <note class="- topic/note " id="unique_1_Connect_42_note_kv1_gbq_jpb" nd:nd-id="note_kv1_gbq_jpb" type="important">When localizing a DITA project, always send
@@ -133,7 +133,7 @@
     </conbody>
 <related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Localization-friendly images</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your images easier to localize.</desc></link><link class="- topic/link " format="dita" href="#unique_4" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Project structure</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how the structure your project can make localization easier.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Localization-friendly images</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your images easier to localize.</desc></link></linkpool></related-links></concept><concept class="- topic/topic concept/concept " dir="ltr" id="unique_5" topicrefclass="- map/topicref " nd:nd-id="c_non_translatable_text" oid="c_non_translatable_text" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Non-translatable content</ph></title>
-    <shortdesc class="- topic/shortdesc ">Learn about types of content that you may wish to leave untranslated.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <shortdesc class="- topic/shortdesc ">Learn about types of content that you may not want to translate.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -147,8 +147,8 @@
                     <li class="- topic/li ">proper names, such as brand names</li>
                     <li class="- topic/li ">contact details</li>
                     <li class="- topic/li ">code blocks</li>
-                    <li class="- topic/li ">user interface (UI) text (if the UI is not localized)</li>
-                    <li class="- topic/li ">legal text (may need to be handled separately)</li>
+                    <li class="- topic/li ">user interface (UI) text (if the UI has not been localized)</li>
+                    <li class="- topic/li ">legal text (you may need to handle it separately)</li>
                 </ul></p>
             <note class="- topic/note " id="unique_5_Connect_42_note_s2q_qhm_kpb" nd:nd-id="note_s2q_qhm_kpb" type="tip">You can use <xref class="- topic/xref " href="#unique_6" type="concept"><?ditaot usertext?>glossaries<?ditaot genshortdesc?><desc class="- topic/desc ">Learn the benefits of using glossaries in your localization process.</desc></xref> to let translators know which phrases they shouldn't
                 translate.</note>
@@ -157,9 +157,9 @@
         <section class="- topic/section " id="unique_5_Connect_42_section_w3j_3kk_jpb" nd:nd-id="section_w3j_3kk_jpb">
             <title class="- topic/title ">UI text</title>
             <p class="- topic/p ">If your project contains UI terms, it's important to know whether the UI has been
-                translated to target langauges. If the UI is not localized, you should let
+                translated, and into which languages. If the UI is not localized, you should let
                 translators know how they should handle UI text. For example, you may want them to
-                follow each UI term with a translation in brackets.</p>
+                follow each UI term with its translation in brackets.</p>
         </section>
     </conbody>
 <related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_7" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Preparing DITA code for localization</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to prepare your DITA code for localization using the             <codeph class="+ topic/ph pr-d/codeph ">xml:lang</codeph> and <codeph class="+ topic/ph pr-d/codeph ">translate</codeph> attributes.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Localization-friendly images</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your images easier to localize.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_6" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Glossaries</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn the benefits of using glossaries in your localization process.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_7" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Preparing DITA code for localization</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to prepare your DITA code for localization using the             <codeph class="+ topic/ph pr-d/codeph ">xml:lang</codeph> and <codeph class="+ topic/ph pr-d/codeph ">translate</codeph> attributes.</desc></link></linkpool></related-links></concept><concept class="- topic/topic concept/concept " dir="ltr" id="unique_6" topicrefclass="- map/topicref " nd:nd-id="c_glossaries" oid="c_glossaries" specializations="@props/deliveryTarget" xml:lang="en-US">
@@ -179,8 +179,8 @@
                 make their translations more consistent.</p>
             <note class="- topic/note " id="unique_6_Connect_42_note_owy_djl_kpb" nd:nd-id="note_owy_djl_kpb">Most <term class="- topic/term " href="#unique_2" keyref="g_cat" type="glossentry"><?ditaot gentext?>CAT</term> tools enable automatic
                 terminology checks to make sure that a translator has used terms from the glossary.
-                Such checks, however, are less reliable in languages in which the same word can have
-                various grammatical forms .</note>
+                Such checks, however, are less reliable in languages where one word can have various
+                grammatical forms.</note>
         </section>
         <section class="- topic/section " id="unique_6_Connect_42_section_b1n_whl_kpb" nd:nd-id="section_b1n_whl_kpb">
             <title class="- topic/title ">Non-translatable text</title>
@@ -191,7 +191,7 @@
             <title class="- topic/title ">Forbidden terms</title>
             <p class="- topic/p ">If you don't want a given term to be tarnslated in a particular way, a glossary is
                 also a good place to specify that.</p>
-            <p class="- topic/p ">For example, the word "pacemaker" can be translated into Polish as "rozrusznik", but
+            <p class="- topic/p ">For example, the word "pacemaker" can be translated into Polish as "rozrusznik," but
                 you may want translators to use the less colloquial "stymulator" instead.</p>
         </section>
         <section class="- topic/section " id="unique_6_Connect_42_section_yld_d3l_kpb" nd:nd-id="section_yld_d3l_kpb">
@@ -204,13 +204,13 @@
                 tools have their own term base format, but you can use a universal format called
                 TermBase eXchange (TBX) to exchange term bases between different tools.</p>
             <p class="- topic/p ">You can also prepare a glossary as a <term class="- topic/term " href="#unique_8" keyref="g_csv" type="glossentry"><?ditaot gentext?>CSV</term> file in a spreadsheet
-                editor and then import it into a CAT tool.</p>
+                editor and import it into a CAT tool.</p>
             <fig class="- topic/fig " id="unique_6_Connect_42_fig_cjc_mml_kpb" nd:nd-id="fig_cjc_mml_kpb"><title class="- topic/title ">A simple bilingual glossary developed in a spreadsheet editor</title><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/writing-glossary.png" id="unique_6_Connect_42_image_urr_4pl_kpb" nd:nd-id="image_urr_4pl_kpb" placement="inline">
                     <alt class="- topic/alt ">A simple bilingual glossary developed in a spreadsheet editor</alt>
                 </image></fig>
         </section>
     </conbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Non-translatable content</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about types of content that you may wish to leave untranslated.</desc></link></linkpool></related-links></concept><concept class="- topic/topic concept/concept " dir="ltr" id="unique_3" topicrefclass="- map/topicref " nd:nd-id="c_localization_friendly_images" oid="c_localization_friendly_images" specializations="@props/deliveryTarget" xml:lang="en-US">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Non-translatable content</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about types of content that you may not want to translate.</desc></link></linkpool></related-links></concept><concept class="- topic/topic concept/concept " dir="ltr" id="unique_3" topicrefclass="- map/topicref " nd:nd-id="c_localization_friendly_images" oid="c_localization_friendly_images" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Localization-friendly images</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn a few tips to make your images easier to localize.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
@@ -221,8 +221,8 @@
     <conbody class="- topic/body  concept/conbody ">
         <section class="- topic/section " id="unique_3_Connect_42_section_rqh_kkf_kpb" nd:nd-id="section_rqh_kkf_kpb">
             <title class="- topic/title ">Image format</title>
-            <p class="- topic/p ">If your images contain text that you won't to translate, avoid using bitmaps, such as
-                JPG or PNG files. Instead, use <term class="- topic/term " href="#unique_9" keyref="g_svg" type="glossentry"><?ditaot gentext?>SVG</term> files. Most <term class="- topic/term " href="#unique_2" keyref="g_cat" type="glossentry"><?ditaot gentext?>CAT</term> tools can translate text contained in SVG files.</p>
+            <p class="- topic/p ">If your images contain text that you want to translate, avoid using bitmaps, such as
+                JPG or PNG files. Use <term class="- topic/term " href="#unique_9" keyref="g_svg" type="glossentry"><?ditaot gentext?>SVG</term> files instead. Most <term class="- topic/term " href="#unique_2" keyref="g_cat" type="glossentry"><?ditaot gentext?>CAT</term> tools can translate text contained in SVG files.</p>
         </section>
         <section class="- topic/section " id="unique_3_Connect_42_section_fct_kkf_kpb" nd:nd-id="section_fct_kkf_kpb">
             <title class="- topic/title ">Callouts</title>
@@ -236,11 +236,11 @@
         <section class="- topic/section " id="unique_3_Connect_42_section_lbr_lkf_kpb" nd:nd-id="section_lbr_lkf_kpb">
             <title class="- topic/title ">UI screens</title>
             <p class="- topic/p ">If your documentation contains user interface (UI) screens, it is important to
-                consider whether the UI is localized. You may need to plan additional steps to
-                prepare UI screens in target languages.</p>
+                consider whether the UI has been localized. You may need to plan the additional step
+                of capturing UI screens in each target language.</p>
         </section>
     </conbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translation-friendly text</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translation-friendly text</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</desc></link><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Non-translatable content</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about types of content that you may wish to leave untranslated.</desc></link></linkpool></related-links></concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d290e131" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Preparing content in oXygen</ph></title><concept class="- topic/topic concept/concept " dir="ltr" id="unique_4" topicrefclass="- map/topicref " nd:nd-id="c_project_structure" oid="c_project_structure" specializations="@props/deliveryTarget" xml:lang="en-US">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translation-friendly text</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translation-friendly text</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</desc></link><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Non-translatable content</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about types of content that you may not want to translate.</desc></link></linkpool></related-links></concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d286e131" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Preparing content in oXygen</ph></title><concept class="- topic/topic concept/concept " dir="ltr" id="unique_4" topicrefclass="- map/topicref " nd:nd-id="c_project_structure" oid="c_project_structure" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Project structure</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn how the structure your project can make localization easier.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
@@ -276,8 +276,8 @@
         </section>
         <section class="- topic/section " id="unique_4_Connect_42_section_qfv_1pn_kpb" nd:nd-id="section_qfv_1pn_kpb">
             <title class="- topic/title ">Language versions</title>
-            <p class="- topic/p ">To make the localization process easier, create a separate subfolder for each
-                language version. Each subfolder should have the same structure.</p>
+            <p class="- topic/p ">To simplify localization, create a separate subfolder for each language version. Each
+                subfolder should have the same structure.</p>
             <fig class="- topic/fig " id="unique_4_Connect_42_fig_ptv_j5n_kpb" nd:nd-id="fig_ptv_j5n_kpb"><title class="- topic/title ">Example structure of a multilingual project with separate folders for
                     different language versions</title><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-language-folders.svg" id="unique_4_Connect_42_image_vpr_jzn_kpb" nd:nd-id="image_vpr_jzn_kpb" placement="inline">
                     <alt class="- topic/alt ">A flow chart depicting project structure divided into separe folders for
@@ -285,7 +285,7 @@
                 </image></fig>
         </section>
         <section class="- topic/section " id="unique_4_Connect_42_section_jrt_bpn_kpb" nd:nd-id="section_jrt_bpn_kpb">
-            <title class="- topic/title ">Untranslated files</title>
+            <title class="- topic/title ">Files not to be translated</title>
             <p class="- topic/p ">Some files, such as images and other content, will be shared among language versions.
                 They don't need to be translated. It's a good idea to keep files you don't want to
                 translate in a separate folder.</p>
@@ -296,7 +296,7 @@
                 </image></fig>
         </section>
     </conbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translation-friendly text</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_7" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Preparing DITA code for localization</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to prepare your DITA code for localization using the             <codeph class="+ topic/ph pr-d/codeph ">xml:lang</codeph> and <codeph class="+ topic/ph pr-d/codeph ">translate</codeph> attributes.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_10" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Content reuse</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about best practices for reusing content that will help you avoid problems with         localization.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_11" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Importing a DITA project into memoQ</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to import your DITA project into <term class="- topic/term " href="#unique_12" keyref="g_memoq" type="glossentry"><?ditaot gentext?>memoQ</term> while preserving the project's folder structure.</desc></link></linkpool></related-links></concept><concept class="- topic/topic concept/concept " dir="ltr" id="unique_7" topicrefclass="- map/topicref " nd:nd-id="c_localization_related_attributes" oid="c_localization_related_attributes" specializations="@props/deliveryTarget" xml:lang="en-US">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Translation-friendly text</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn a few tips to make your text easier to translate and less likely to cause         translation errors.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_10" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Content reuse</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about best practices for reusing content that will help you avoid problems with         localization.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_11" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Importing a DITA project into memoQ</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to import your DITA project into memoQ while preserving the project's         folder structure.</desc></link></linkpool></related-links></concept><concept class="- topic/topic concept/concept " dir="ltr" id="unique_7" topicrefclass="- map/topicref " nd:nd-id="c_localization_related_attributes" oid="c_localization_related_attributes" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Preparing DITA code for localization</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn how to prepare your DITA code for localization using the
             <codeph class="+ topic/ph pr-d/codeph ">xml:lang</codeph> and <codeph class="+ topic/ph pr-d/codeph ">translate</codeph> attributes.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
@@ -312,7 +312,7 @@
                 planning localization. To specify the language and country of a topic or map, set
                 the <codeph class="+ topic/ph pr-d/codeph ">xml:lang</codeph> attribute of its root element:
                 <codeblock class="+ topic/pre pr-d/codeblock " id="unique_7_Connect_42_codeblock_gyh_4ns_kpb" nd:nd-id="codeblock_gyh_4ns_kpb" xml:space="preserve">&lt;concept id="c_magic" xml:lang="en-US"&gt;</codeblock></p>
-            <note class="- topic/note " id="unique_7_Connect_42_note_set_attr" nd:nd-id="note_set_attr" type="tip">To set an attribute of an element in <term class="- topic/term " href="#unique_13" keyref="g_oxygen_xml_editor" type="glossentry"><?ditaot gentext?>oXygen XML Editor</term>, select the element, press <uicontrol class="+ topic/ph ui-d/uicontrol ">Alt +
+            <note class="- topic/note " id="unique_7_Connect_42_note_set_attr" nd:nd-id="note_set_attr" type="tip">To set an attribute of an element in <term class="- topic/term " href="#unique_12" keyref="g_oxygen_xml_editor" type="glossentry"><?ditaot gentext?>oXygen XML Editor</term>, select the element, press <uicontrol class="+ topic/ph ui-d/uicontrol ">Alt +
                     Enter</uicontrol>, and type the name of the attribute you want to set.</note>
         </section>
         <section class="- topic/section " id="unique_7_Connect_42_section_gt2_zks_kpb" nd:nd-id="section_gt2_zks_kpb">
@@ -324,7 +324,7 @@
 &lt;/codeblock&gt;</codeblock></p>
         </section>
     </conbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Non-translatable content</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about types of content that you may wish to leave untranslated.</desc></link><link class="- topic/link " format="dita" href="#unique_4" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Project structure</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how the structure your project can make localization easier.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Non-translatable content</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about types of content that you may wish to leave untranslated.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_14" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Text sorting and direction</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to adjust text sorting and text direction in localized files.</desc></link></linkpool></related-links></concept><concept class="- topic/topic concept/concept " dir="ltr" id="unique_14" topicrefclass="- map/topicref " nd:nd-id="c_text_sorting" oid="c_text_sorting" specializations="@props/deliveryTarget" xml:lang="en-US">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Non-translatable content</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about types of content that you may not want to translate.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_5" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Non-translatable content</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about types of content that you may not want to translate.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_13" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Text sorting and direction</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to adjust text sorting and text direction in localized files.</desc></link></linkpool></related-links></concept><concept class="- topic/topic concept/concept " dir="ltr" id="unique_13" topicrefclass="- map/topicref " nd:nd-id="c_text_sorting" oid="c_text_sorting" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Text sorting and direction</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn how to adjust text sorting and text direction in localized files.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
@@ -333,14 +333,14 @@
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
     <conbody class="- topic/body  concept/conbody ">
-        <section class="- topic/section " id="unique_14_Connect_42_section_kfc_wvs_kpb" nd:nd-id="section_kfc_wvs_kpb">
+        <section class="- topic/section " id="unique_13_Connect_42_section_kfc_wvs_kpb" nd:nd-id="section_kfc_wvs_kpb">
             <title class="- topic/title ">Sorting text using the sort-as element</title>
             <p class="- topic/p ">In languages like English you can easily sort lists by alphabetical order. But it's
-                not always that simple in languages such as Japanese and Chinese. That's because the
-                same character can have different pronunciations depending on the meaning.</p>
+                not that simple in languages such as Japanese and Chinese. This is because the same
+                character can have different pronunciations depending on the meaning.</p>
             <p class="- topic/p ">To specify text you want to use for sorting, add a <codeph class="+ topic/ph pr-d/codeph ">sort-as</codeph> element
                 inside a sorted element:
-                <codeblock class="+ topic/pre pr-d/codeblock " id="unique_14_Connect_42_codeblock_kyp_1xs_kpb" nd:nd-id="codeblock_kyp_1xs_kpb" xml:space="preserve">&lt;glossentry id="gloss-harry-potter"&gt;
+                <codeblock class="+ topic/pre pr-d/codeblock " id="unique_13_Connect_42_codeblock_kyp_1xs_kpb" nd:nd-id="codeblock_kyp_1xs_kpb" xml:space="preserve">&lt;glossentry id="gloss-harry-potter"&gt;
   &lt;glossterm&gt;&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;&lt;/glossterm&gt;
   &lt;prolog&gt;
     &lt;sort-as&gt;Harry Potter&lt;/sort-as&gt;
@@ -348,22 +348,22 @@
   &lt;glossdef&gt;&lt;/glossdef&gt;
 &lt;/glossentry&gt;</codeblock></p>
         </section>
-        <section class="- topic/section " id="unique_14_Connect_42_section_og2_xvs_kpb" nd:nd-id="section_og2_xvs_kpb">
+        <section class="- topic/section " id="unique_13_Connect_42_section_og2_xvs_kpb" nd:nd-id="section_og2_xvs_kpb">
             <title class="- topic/title ">Sorting index terms using the index-sort-as element</title>
-            <p class="- topic/p ">Similarly, you can adjust the storting order of index terms by adding the
+            <p class="- topic/p ">You can adjust the storting order of index terms by adding the
                     <codeph class="+ topic/ph pr-d/codeph ">index-sort-as</codeph> element:
-                <codeblock class="+ topic/pre pr-d/codeblock " id="unique_14_Connect_42_codeblock_uyj_dbt_kpb" nd:nd-id="codeblock_uyj_dbt_kpb" xml:space="preserve">&lt;indexterm&gt;&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;
+                <codeblock class="+ topic/pre pr-d/codeblock " id="unique_13_Connect_42_codeblock_uyj_dbt_kpb" nd:nd-id="codeblock_uyj_dbt_kpb" xml:space="preserve">&lt;indexterm&gt;&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;
   &lt;index-sort-as&gt;Harry Potter&lt;/index-sort-as&gt;
 &lt;/indexterm&gt;</codeblock></p>
         </section>
-        <section class="- topic/section " id="unique_14_Connect_42_section_tnw_xvs_kpb" nd:nd-id="section_tnw_xvs_kpb">
+        <section class="- topic/section " id="unique_13_Connect_42_section_tnw_xvs_kpb" nd:nd-id="section_tnw_xvs_kpb">
             <title class="- topic/title ">Changing text direction using the dir element</title>
             <p class="- topic/p ">English and many other languages use left-to-right (LTR) script. But there are many
                 languages like Hebrew or Arabic that use right-to-left (RTL) script. To optimize
                 localization, it's a best practice to specify text direction using the
                     <codeph class="+ topic/ph pr-d/codeph ">dir</codeph> attribute:
-                <codeblock class="+ topic/pre pr-d/codeblock " id="unique_14_Connect_42_codeblock_s3f_pft_kpb" nd:nd-id="codeblock_s3f_pft_kpb" xml:space="preserve">&lt;map xml:lang="ar-IQ" dir ="rtl"&gt;</codeblock></p>
-            <note class="- topic/note " id="unique_14_Connect_42_note_sjc_xft_kpb" nd:nd-id="note_sjc_xft_kpb" type="tip">To set an attribute of an element in <term class="- topic/term " href="#unique_13" keyref="g_oxygen_xml_editor" type="glossentry"><?ditaot gentext?>oXygen XML Editor</term>, select the element, press <uicontrol class="+ topic/ph ui-d/uicontrol ">Alt +
+                <codeblock class="+ topic/pre pr-d/codeblock " id="unique_13_Connect_42_codeblock_s3f_pft_kpb" nd:nd-id="codeblock_s3f_pft_kpb" xml:space="preserve">&lt;map xml:lang="ar-IQ" dir="rtl"&gt;</codeblock></p>
+            <note class="- topic/note " id="unique_13_Connect_42_note_sjc_xft_kpb" nd:nd-id="note_sjc_xft_kpb" type="tip">To set an attribute of an element in <term class="- topic/term " href="#unique_12" keyref="g_oxygen_xml_editor" type="glossentry"><?ditaot gentext?>oXygen XML Editor</term>, select the element, press <uicontrol class="+ topic/ph ui-d/uicontrol ">Alt +
                     Enter</uicontrol>, and type the name of the attribute you want to set.</note>
         </section>
     </conbody>
@@ -379,11 +379,11 @@
     <conbody class="- topic/body  concept/conbody ">
         <section class="- topic/section " id="unique_10_Connect_42_section_r4h_l5d_jpb" nd:nd-id="section_r4h_l5d_jpb">
             <title class="- topic/title ">Handling conrefs</title>
-            <p class="- topic/p ">You can easily reuse content in DITA with the <codeph class="+ topic/ph pr-d/codeph ">conref</codeph> attribute.<fig class="- topic/fig " id="unique_10_Connect_42_fig_yzb_h4t_kpb" nd:nd-id="fig_yzb_h4t_kpb"><title class="- topic/title ">Example of content referencing in DITA</title><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-conrefs.svg" id="unique_10_Connect_42_image_l3z_jrt_kpb" nd:nd-id="image_l3z_jrt_kpb" placement="inline">
+            <p class="- topic/p ">You can easily reuse content in DITA with the <codeph class="+ topic/ph pr-d/codeph ">conref</codeph> attribute.<fig class="- topic/fig " id="unique_10_Connect_42_fig_yzb_h4t_kpb" nd:nd-id="fig_yzb_h4t_kpb"><title class="- topic/title ">Example of content referencing in DITA</title><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-conrefs.png" id="unique_10_Connect_42_image_l3z_jrt_kpb" nd:nd-id="image_l3z_jrt_kpb" placement="inline" width="450">
                         <alt class="- topic/alt ">Example of using the conref attribute to reuse content between
                             topics</alt>
                     </image></fig></p>
-            <note class="- topic/note " id="unique_10_Connect_42_note_rz1_5ss_kpb" nd:nd-id="note_rz1_5ss_kpb" type="tip">To set an attribute of an element in <term class="- topic/term " href="#unique_13" keyref="g_oxygen_xml_editor" type="glossentry"><?ditaot gentext?>oXygen XML Editor</term>, select the element, press <uicontrol class="+ topic/ph ui-d/uicontrol ">Alt +
+            <note class="- topic/note " id="unique_10_Connect_42_note_rz1_5ss_kpb" nd:nd-id="note_rz1_5ss_kpb" type="tip">To set an attribute of an element in <term class="- topic/term " href="#unique_12" keyref="g_oxygen_xml_editor" type="glossentry"><?ditaot gentext?>oXygen XML Editor</term>, select the element, press <uicontrol class="+ topic/ph ui-d/uicontrol ">Alt +
                     Enter</uicontrol>, and type the name of the attribute you want to set.</note>
             <p class="- topic/p ">Improper use of content referencing can lead to translation errors (such as wrong
                 gramamtical forms or text not matching the context). To avoid such errors, follow
@@ -397,22 +397,22 @@
         <section class="- topic/section " id="unique_10_Connect_42_section_qfv_l5d_jpb" nd:nd-id="section_qfv_l5d_jpb">
             <title class="- topic/title ">Handling keyrefs</title>
             <p class="- topic/p ">You can reference keywords using the <codeph class="+ topic/ph pr-d/codeph ">keyref</codeph> attribute. Keyrefs can
-                be used for standard text or expressions that can change, such as product names.<fig class="- topic/fig " id="unique_10_Connect_42_fig_jdn_fyt_kpb" nd:nd-id="fig_jdn_fyt_kpb"><title class="- topic/title ">Example of keyword referencing in DITA</title><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-keyrefs.svg" id="unique_10_Connect_42_image_fct_5b5_kpb" nd:nd-id="image_fct_5b5_kpb" placement="inline">
+                be used for standard text or expressions that can change, such as product names.<fig class="- topic/fig " id="unique_10_Connect_42_fig_jdn_fyt_kpb" nd:nd-id="fig_jdn_fyt_kpb"><title class="- topic/title ">Example of keyword referencing in DITA</title><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-keyrefs.png" id="unique_10_Connect_42_image_fct_5b5_kpb" nd:nd-id="image_fct_5b5_kpb" placement="inline" width="450">
                         <alt class="- topic/alt ">Example of using keydef and keyword elements in DITA</alt>
-                        </image></fig></p>
-            <p class="- topic/p ">When used improperly, keyrefs can lead to translation errors. You can avoid such
+                    </image></fig></p>
+            <p class="- topic/p ">When used improperly, keyrefs can lead to translation errors. You can minimize such
                 errors by following these tips:<ul class="- topic/ul " id="unique_10_Connect_42_ul_w43_qvt_kpb" nd:nd-id="ul_w43_qvt_kpb">
                     <li class="- topic/li ">Use keyrefs for terms that do not change their grammatical form, such as
                         product names or UI terms.</li>
                     <li class="- topic/li ">Avoid using keyrefs for common nouns.</li>
-                    <li class="- topic/li ">Treat keyrefs as proper nouns and don't precede them with articles.</li>
+                    <li class="- topic/li ">Treat keyrefs as proper nouns and don't precede them with an article.</li>
                 </ul></p>
             <note class="- topic/note " id="unique_10_Connect_42_note_rlw_htt_kpb" nd:nd-id="note_rlw_htt_kpb" type="tip">To avoid translation errors, it may be a good
-                idea to <xref class="- topic/xref " href="#unique_15" type="task"><?ditaot usertext?>resolve all conrefs and
+                idea to <xref class="- topic/xref " href="#unique_14" type="task"><?ditaot usertext?>resolve all conrefs and
                     keyrefs<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></xref> before localizing your project.</note>
         </section>
     </conbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_15" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Resolving conrefs and keyrefs</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_4" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Project structure</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how the structure your project can make localization easier.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_15" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Resolving conrefs and keyrefs</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></link></linkpool></related-links></concept><task class="- topic/topic task/task " dir="ltr" id="unique_15" topicrefclass="- map/topicref " nd:nd-id="t_resolving_conrefs_and_keyrefs" oid="t_resolving_conrefs_and_keyrefs" specializations="@props/deliveryTarget" xml:lang="en-US">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_14" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Resolving conrefs and keyrefs</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_4" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Project structure</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how the structure your project can make localization easier.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_14" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Resolving conrefs and keyrefs</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></link></linkpool></related-links></concept><task class="- topic/topic task/task " dir="ltr" id="unique_14" topicrefclass="- map/topicref " nd:nd-id="t_resolving_conrefs_and_keyrefs" oid="t_resolving_conrefs_and_keyrefs" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Resolving conrefs and keyrefs</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn how to quickly replace content references and keyword references with relevant
         content in oXygen XML Editor.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
@@ -424,14 +424,14 @@
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">When preparing your project for localization, it may be useful to replace content
             references (conrefs) and keyword references (keyrefs) with appropriate content. To
-            resolve all conrefs and keyrefs in a topic in <term class="- topic/term " href="#unique_13" keyref="g_oxygen_xml_editor" type="glossentry"><?ditaot gentext?>oXygen XML Editor</term>,
+            resolve all conrefs and keyrefs in a topic in <term class="- topic/term " href="#unique_12" keyref="g_oxygen_xml_editor" type="glossentry"><?ditaot gentext?>oXygen XML Editor</term>,
             follow these steps:</context>
-        <steps class="- topic/ol task/steps " id="unique_15_Connect_42_steps_f5z_kx2_kpb" nd:nd-id="steps_f5z_kx2_kpb">
+        <steps class="- topic/ol task/steps " id="unique_14_Connect_42_steps_f5z_kx2_kpb" nd:nd-id="steps_f5z_kx2_kpb">
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Open a topic containing references and switch to the
                         <uicontrol class="+ topic/ph ui-d/uicontrol ">Author</uicontrol> mode.</cmd>
                 <info class="- topic/itemgroup task/info ">
-                    <fig class="- topic/fig " id="unique_15_Connect_42_fig_kl1_sx2_kpb" nd:nd-id="fig_kl1_sx2_kpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-author-mode.png" id="unique_15_Connect_42_image_inj_sx2_kpb" nd:nd-id="image_inj_sx2_kpb" placement="inline" width="750">
+                    <fig class="- topic/fig " id="unique_14_Connect_42_fig_kl1_sx2_kpb" nd:nd-id="fig_kl1_sx2_kpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-author-mode.png" id="unique_14_Connect_42_image_inj_sx2_kpb" nd:nd-id="image_inj_sx2_kpb" placement="inline" width="750">
                             <alt class="- topic/alt ">Author mode in oXygen</alt>
                         </image></fig>
                 </info>
@@ -439,22 +439,23 @@
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Go to <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;26:41" xtrf="file:/C:/repozytoria/dita-l10n/topics/t_resolving_conrefs_and_keyrefs.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">DITA</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Replace All References with Content</uicontrol></menucascade>.</cmd>
                 <info class="- topic/itemgroup task/info ">
-                    <fig class="- topic/fig " id="unique_15_Connect_42_fig_jls_vx2_kpb" nd:nd-id="fig_jls_vx2_kpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-replace-references.png" id="unique_15_Connect_42_image_k4b_wx2_kpb" nd:nd-id="image_k4b_wx2_kpb" placement="inline" width="750">
+                    <fig class="- topic/fig " id="unique_14_Connect_42_fig_jls_vx2_kpb" nd:nd-id="fig_jls_vx2_kpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-replace-references.png" id="unique_14_Connect_42_image_k4b_wx2_kpb" nd:nd-id="image_k4b_wx2_kpb" placement="inline" width="750">
                             <alt class="- topic/alt ">'DITA' menu in oXygen with the 'Replace All References with
                                 Content' option</alt>
                         </image></fig>
                 </info>
             </step>
         </steps>
-        <result class="- topic/section task/result " id="unique_15_Connect_42_result_emk_dy2_kpb" nd:nd-id="result_emk_dy2_kpb">All references in the topic are replaced with relevant
-                content.<fig class="- topic/fig " id="unique_15_Connect_42_fig_icy_2y2_kpb" nd:nd-id="fig_icy_2y2_kpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-resolving-result.png" id="unique_15_Connect_42_image_s5k_fy2_kpb" nd:nd-id="image_s5k_fy2_kpb" placement="inline" width="750">
+        <result class="- topic/section task/result " id="unique_14_Connect_42_result_emk_dy2_kpb" nd:nd-id="result_emk_dy2_kpb">All references in the topic are replaced with relevant
+                content.<fig class="- topic/fig " id="unique_14_Connect_42_fig_icy_2y2_kpb" nd:nd-id="fig_icy_2y2_kpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-resolving-result.png" id="unique_14_Connect_42_image_s5k_fy2_kpb" nd:nd-id="image_s5k_fy2_kpb" placement="inline" width="750">
                     <alt class="- topic/alt ">A comparison of DITA code before and after resolving references. All
                         references are replaced with appropriate content.</alt>
                 </image></fig></result>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_10" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Content reuse</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about best practices for reusing content that will help you avoid problems with         localization.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_10" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Content reuse</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about best practices for reusing content that will help you avoid problems with         localization.</desc></link></linkpool></related-links></task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d290e259" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Translating content in memoQ</ph></title><task class="- topic/topic task/task " dir="ltr" id="unique_11" topicrefclass="- map/topicref " nd:nd-id="t_importing_a_dita_project_into_memoq" oid="t_importing_a_dita_project_into_memoq" specializations="@props/deliveryTarget" xml:lang="en-US">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_10" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Content reuse</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about best practices for reusing content that will help you avoid problems with         localization.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_10" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Content reuse</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn about best practices for reusing content that will help you avoid problems with         localization.</desc></link></linkpool></related-links></task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d286e259" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Translating content in memoQ</ph></title><task class="- topic/topic task/task " dir="ltr" id="unique_11" topicrefclass="- map/topicref " nd:nd-id="t_importing_a_dita_project_into_memoq" oid="t_importing_a_dita_project_into_memoq" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Importing a DITA project into memoQ</ph></title>
-    <shortdesc class="- topic/shortdesc ">Learn how to import your DITA project into <term class="- topic/term " href="#unique_12" keyref="g_memoq" type="glossentry"><?ditaot gentext?>memoQ</term> while preserving the project's folder structure.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <shortdesc class="- topic/shortdesc ">Learn how to import your DITA project into memoQ while preserving the project's
+        folder structure.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -463,8 +464,8 @@
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
             <p class="- topic/p ">When translating a DITA project, it is important to preserve the relationships
-                between files. To import your project into memoQ without losing the project's folder
-                strucure, follow these steps:</p>
+                between files. To import your project into <term class="- topic/term " href="#unique_15" keyref="g_memoq" type="glossentry"><?ditaot gentext?>memoQ</term> without losing
+                the project's folder strucure, follow these steps:</p>
         </context>
         <steps class="- topic/ol task/steps " id="unique_11_Connect_42_steps_tqk_mnr_jpb" nd:nd-id="steps_tqk_mnr_jpb">
             <step class="- topic/li task/step ">
@@ -515,7 +516,7 @@
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Click <uicontrol class="+ topic/ph ui-d/uicontrol ">…</uicontrol> next to the <uicontrol class="+ topic/ph ui-d/uicontrol ">Base path</uicontrol>
-                    field, choose the folder where your project is located, and click
+                    field, choose the folder where you keep your project, and click
                         <uicontrol class="+ topic/ph ui-d/uicontrol ">OK</uicontrol>.</cmd>
                 <info class="- topic/itemgroup task/info ">
                     <fig class="- topic/fig " id="unique_11_Connect_42_fig_hjq_1sr_jpb" nd:nd-id="fig_hjq_1sr_jpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/memoq-base-path.png" id="unique_11_Connect_42_image_b54_p3s_jpb" nd:nd-id="image_b54_p3s_jpb" placement="inline" width="650">
@@ -550,7 +551,7 @@
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">If your DITA project contains a lot of repetitive content, it
             may be useful to include all repetitions in one view. In order to create a view
-            containing all repetitions in <term class="- topic/term " href="#unique_12" keyref="g_memoq" type="glossentry"><?ditaot gentext?>memoQ</term>, follow these steps:</context>
+            containing all repetitions in <term class="- topic/term " href="#unique_15" keyref="g_memoq" type="glossentry"><?ditaot gentext?>memoQ</term>, follow these steps:</context>
         <steps class="- topic/ol task/steps " id="unique_16_Connect_42_steps_tvl_tyr_jpb" nd:nd-id="steps_tvl_tyr_jpb">
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Go to <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;13:41" xtrf="file:/C:/repozytoria/dita-l10n/topics/t_translating_repetitions.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Project home</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Translations</uicontrol></menucascade> and select all files.</cmd>
@@ -579,9 +580,9 @@
                     <alt class="- topic/alt ">An example memoQ view containing repetitions</alt>
                 </image></fig></result>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_11" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Importing a DITA project into memoQ</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to import your DITA project into <term class="- topic/term " href="#unique_12" keyref="g_memoq" type="glossentry"><?ditaot gentext?>memoQ</term> while preserving the project's folder structure.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_11" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Importing a DITA project into memoQ</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to import your DITA project into <term class="- topic/term " href="#unique_12" keyref="g_memoq" type="glossentry"><?ditaot gentext?>memoQ</term> while preserving the project's folder structure.</desc></link></linkpool></related-links></task></topic><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_17" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="r_glossary" oid="r_glossary" specializations="@props/deliveryTarget">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_11" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Importing a DITA project into memoQ</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to import your DITA project into memoQ while preserving the project's         folder structure.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_11" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Importing a DITA project into memoQ</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to import your DITA project into memoQ while preserving the project's         folder structure.</desc></link></linkpool></related-links></task></topic><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_17" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="r_glossary" oid="r_glossary" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Glossary</ph></title>
-    <shortdesc class="- topic/shortdesc ">Learn basic terms associated with the localization of DITA projects.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+    <shortdesc class="- topic/shortdesc ">Learn basic terms associated with localizing DITA content.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -624,7 +625,7 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
-</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_12" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_memoq" oid="g_memoq" specializations="@props/deliveryTarget" xml:lang="en-US">
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_15" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_memoq" oid="g_memoq" specializations="@props/deliveryTarget" xml:lang="en-US">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">memoQ</ph></glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A popular computer-assisted translation (CAT) software suite that runs on Microsoft
         Windows operating systems.</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
@@ -636,7 +637,7 @@
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
         </critdates></prolog>
-</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_13" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_oxygen" oid="g_oxygen" specializations="@props/deliveryTarget" xml:lang="en-US">
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_12" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_oxygen" oid="g_oxygen" specializations="@props/deliveryTarget" xml:lang="en-US">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">oXygen XML Editor</ph></glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A popular XML editor offering advanced features for working with DITA
         projects.</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">

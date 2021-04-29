@@ -36,7 +36,6 @@
                path="topics/t_resolving_conrefs_and_keyrefs.html"/>
    <appContext helpID="c_non_translatable_text"
                path="topics/c_non_translatable_content.html"/>
-   <appContext helpID="c_project_structure" path="topics/c_project_structure.html"/>
    <appContext helpID="c_localization_related_attributes"
                path="topics/c_preparing_dita_code_for_localization.html"/>
    <appContext helpID="c_localization_friendly_images"
