@@ -442,7 +442,7 @@
                 <cmd class="- topic/ph task/cmd ">Go to <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;26:41" xtrf="file:/C:/repozytoria/dita-l10n/topics/t_resolving_conrefs_and_keyrefs.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">DITA</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Replace All References with Content</uicontrol></menucascade>.</cmd>
                 <info class="- topic/itemgroup task/info ">
                     <fig class="- topic/fig " id="unique_14_Connect_42_fig_jls_vx2_kpb" nd:nd-id="fig_jls_vx2_kpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-replace-references.png" id="unique_14_Connect_42_image_k4b_wx2_kpb" nd:nd-id="image_k4b_wx2_kpb" placement="inline" width="750">
-                            <alt class="- topic/alt ">'DITA' menu in oXygen with the 'Replace All References with
+                            <alt class="- topic/alt ">'DITA' menu in oXygen with the 'Replace All References' with
                                 Content' option</alt>
                         </image></fig>
                 </info>
