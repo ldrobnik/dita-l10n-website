@@ -936,7 +936,7 @@
                             <fo:block-container id="unique_12" xml:lang="en-US" chfox:nd-id="g_oxygen"><fo:block end-indent="0" start-indent="0" role="Sect">
                                 <fo:block-container color="rgb(7 , 55 , 99)" font-size="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title20"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>oXygen XML Editor</fo:inline></fo:block></fo:block-container>
                                 <fo:block>A popular XML editor offering advanced
-                                    features for working with DITA projects.</fo:block>
+                                    features for working with DITA content.</fo:block>
                                 
                             </fo:block></fo:block-container>
                             <fo:block-container id="unique_9" xml:lang="en-US" chfox:nd-id="g_svg"><fo:block end-indent="0" start-indent="0" role="Sect">
@@ -949,7 +949,7 @@
                                 <fo:block-container color="rgb(7 , 55 , 99)" font-size="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title22"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>XML</fo:inline></fo:block></fo:block-container>
                                 <fo:block>eXtensible Markup Language; a markup
                                     language designed to store and transport data in a format that
-                                    is both human-readable and machine-readable.</fo:block>
+                                    is readable by both humans and machines.</fo:block>
                                 
                             </fo:block></fo:block-container>
                         </fo:block></fo:block-container></fo:block></fo:block-container>

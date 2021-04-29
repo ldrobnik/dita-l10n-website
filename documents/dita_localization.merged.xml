@@ -640,7 +640,7 @@
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_12" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_oxygen" oid="g_oxygen" specializations="@props/deliveryTarget" xml:lang="en-US">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">oXygen XML Editor</ph></glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A popular XML editor offering advanced features for working with DITA
-        projects.</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+        content.</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><copyright class="- topic/copyright ">
@@ -663,7 +663,7 @@
 </glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " dir="ltr" id="unique_19" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_xml" oid="g_xml" specializations="@props/deliveryTarget" xml:lang="en-US">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">XML</ph></glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">eXtensible Markup Language; a markup language designed to store and transport data in
-        a format that is both human-readable and machine-readable.</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+        a format that is readable by both humans and machines.</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><copyright class="- topic/copyright ">
