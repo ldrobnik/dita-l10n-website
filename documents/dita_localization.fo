@@ -342,7 +342,7 @@
                                         <fo:block-container id="d36e1174" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H3">Forbidden
                                             terms</fo:block></fo:block-container>
                                         <fo:block-container space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">If you don't
-                                            want a given term to be tarnslated in a particular way,
+                                            want a given term to be translated in a particular way,
                                             a glossary is also a good place to specify that.</fo:block></fo:block-container>
                                         <fo:block-container space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">For example,
                                             the word "pacemaker" can be translated into Polish as

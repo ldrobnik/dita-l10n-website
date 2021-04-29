@@ -190,7 +190,7 @@
         </section>
         <section class="- topic/section " id="unique_6_Connect_42_section_agl_yhl_kpb" nd:nd-id="section_agl_yhl_kpb">
             <title class="- topic/title ">Forbidden terms</title>
-            <p class="- topic/p ">If you don't want a given term to be tarnslated in a particular way, a glossary is
+            <p class="- topic/p ">If you don't want a given term to be translated in a particular way, a glossary is
                 also a good place to specify that.</p>
             <p class="- topic/p ">For example, the word "pacemaker" can be translated into Polish as "rozrusznik," but
                 you may want translators to use the less colloquial "stymulator" instead.</p>
