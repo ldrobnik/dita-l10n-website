@@ -15,7 +15,7 @@
    <appContext helpID="t_resolving_conrefs_and_keyrefs"
                path="topics/t_resolving_conrefs_and_keyrefs.html"/>
    <appContext helpID="t_importing_a_dita_project_into_memoq"
-               path="topics/t_importing_a_dita_project_into_memoq.html"/>
+               path="topics/t_importing_a_dita_project.html"/>
    <appContext helpID="t_working_with_views"
                path="topics/t_translating_repetitions.html"/>
    <appContext helpID="r_glossary" path="topics/glossary/r_glossary.html#r_glossary"/>
@@ -60,12 +60,12 @@
                path="topics/t_resolving_conrefs_and_keyrefs.html"/>
    <appContext helpID="c_content_reuse" path="topics/c_content_reuse.html"/>
    <appContext helpID="t_importing_a_dita_project_into_memoq"
-               path="topics/t_importing_a_dita_project_into_memoq.html"/>
+               path="topics/t_importing_a_dita_project.html"/>
    <appContext helpID="c_project_structure" path="topics/c_project_structure.html"/>
    <appContext helpID="t_working_with_views"
                path="topics/t_translating_repetitions.html"/>
    <appContext helpID="t_working_with_views"
                path="topics/t_translating_repetitions.html"/>
    <appContext helpID="t_importing_a_dita_project_into_memoq"
-               path="topics/t_importing_a_dita_project_into_memoq.html"/>
+               path="topics/t_importing_a_dita_project.html"/>
 </map>
