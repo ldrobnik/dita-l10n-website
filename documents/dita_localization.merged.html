@@ -112,7 +112,7 @@
                     <li class="- topic/li li">Split clusters of nouns into smaller logical units.<figure class="- topic/fig fig fignone" id="unique_1_Connect_42_fig_gdn_zjp_jpb" nd:nd-id="fig_gdn_zjp_jpb"><img class="- topic/image image" href="file:/C:/repozytoria/dita-l10n/images/writing-noun-clusters.svg" id="unique_1_Connect_42_image_xfz_4yp_jpb" nd:nd-id="image_xfz_4yp_jpb" placement="inline" width="400" src="file:/C:/repozytoria/dita-l10n/images/writing-noun-clusters.svg" alt="For example, instead of writing 'magic wand cleaning center,' write 'center for cleaning magic wands.'"></img></figure></li>
                 </ul></div>
         </section>
-        <section class="- topic/section section" id="unique_1_Connect_42_section_lnc_1kp_jpb" nd:nd-id="section_lnc_1kp_jpb"><h3 class="- topic/title title sectiontitle">Formating</h3>
+        <section class="- topic/section section" id="unique_1_Connect_42_section_lnc_1kp_jpb" nd:nd-id="section_lnc_1kp_jpb"><h3 class="- topic/title title sectiontitle">Formatting</h3>
             
             <p class="- topic/p p">Search your text for unintended line breaks and punctuation marks (such as periods in
                 place of commas). <a href="#unique_2" title="Computer-Assisted Translation; the use of software tools (such as translation memory tools and terminology managers) to assist a human translator in the translation process."><dfn class="+ topic/term abbrev-d/abbreviated-form term abbreviated-form" href="#unique_2" keyref="g_cat" type="glossentry">CAT</dfn></a> tools may misinterpret such
@@ -139,8 +139,8 @@
             <div class="- topic/p p">While planning the localization of your project, it's important to identify
                 fragments you don't want to translate. These can include the following: <ul class="- topic/ul ul" id="unique_5_Connect_42_ul_rlp_qfm_kpb" nd:nd-id="ul_rlp_qfm_kpb">
                     <li class="- topic/li li">Proper names, such as brand names.</li>
-                    <li class="- topic/li li">Contact details (though you may need to translate for example country
-                        names).</li>
+                    <li class="- topic/li li">Contact details (though you may need to translate some details, for example
+                        country names).</li>
                     <li class="- topic/li li">UI text (if the UI has not been localized).</li>
                     <li class="- topic/li li">Code blocks (but you may want to translate comments in the code).</li>
                     <li class="- topic/li li">Legal text (you may need to handle it separately).</li>
@@ -153,7 +153,7 @@
             
             <p class="- topic/p p">If your project contains UI terms, it's important to know whether the UI has been
                 translated, and into which languages. </p>
-            <p class="- topic/p p">If the UI hasn't been localized, you should let translators know how they should handle UI
+            <p class="- topic/p p">If the UI hasn't been localized, you should let translators know how to handle UI
                 text. For example, you may want them to follow each UI term with its translation in
                 brackets.</p>
         </section>
@@ -297,9 +297,9 @@
             <div class="- topic/note note tip note_tip" id="unique_7_Connect_42_note_set_attr" nd:nd-id="note_set_attr" type="tip"><span class="note__title">Tip:</span> To set an attribute of an element in <a href="#unique_12" title="A popular XML editor offering advanced features for working with DITA content."><dfn class="- topic/term term" href="#unique_12" keyref="g_oxygen_xml_editor" type="glossentry">oXygen XML Editor</dfn></a>, select the element, press <span class="+ topic/ph ui-d/uicontrol ph uicontrol">Alt +
                     Enter</span> and type the name of the attribute you want to set.</div>
         </section>
-        <section class="- topic/section section" id="unique_7_Connect_42_section_gt2_zks_kpb" nd:nd-id="section_gt2_zks_kpb"><h3 class="- topic/title title sectiontitle">Identifying content you don't want to translate</h3>
+        <section class="- topic/section section" id="unique_7_Connect_42_section_gt2_zks_kpb" nd:nd-id="section_gt2_zks_kpb"><h3 class="- topic/title title sectiontitle">Identifying content that you don't want to translate</h3>
             
-            <div class="- topic/p p">To identify an element you don't want to translate, set its
+            <div class="- topic/p p">To identify an element that you don't want to translate, set its
                     <code class="+ topic/ph pr-d/codeph ph codeph">translate</code> attribute to "no":
                 <pre class="+ topic/pre pr-d/codeblock pre codeblock" id="unique_7_Connect_42_codeblock_id5_mqs_kpb" nd:nd-id="codeblock_id5_mqs_kpb" xml:space="preserve"><code>&lt;codeblock id="codeblock_spells" translate="no"&gt;
   let spellsLeft = 7;
@@ -321,8 +321,8 @@
             <p class="- topic/p p">In languages like English, you can easily sort lists by alphabetical order. But it's
                 not that simple in languages such as Japanese and Chinese. This is because the same
                 character can have different pronunciations depending on the meaning.</p>
-            <div class="- topic/p p">To specify text you want to use for sorting, add a <code class="+ topic/ph pr-d/codeph ph codeph">sort-as</code> element
-                inside a sorted element:
+            <div class="- topic/p p">To specify text that you want to use for sorting, add a <code class="+ topic/ph pr-d/codeph ph codeph">sort-as</code>
+                element inside a sorted element:
                 <pre class="+ topic/pre pr-d/codeblock pre codeblock" id="unique_13_Connect_42_codeblock_kyp_1xs_kpb" nd:nd-id="codeblock_kyp_1xs_kpb" xml:space="preserve"><code>&lt;glossentry id="gloss-harry-potter"&gt;
   &lt;glossterm&gt;&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;&lt;/glossterm&gt;
   &lt;prolog&gt;
@@ -333,7 +333,7 @@
         </section>
         <section class="- topic/section section" id="unique_13_Connect_42_section_og2_xvs_kpb" nd:nd-id="section_og2_xvs_kpb"><h3 class="- topic/title title sectiontitle">Sorting index terms using the index-sort-as element</h3>
             
-            <div class="- topic/p p">You can adjust the storting order of index terms by adding the
+            <div class="- topic/p p">You can adjust the sorting order of index terms by adding the
                     <code class="+ topic/ph pr-d/codeph ph codeph">index-sort-as</code> element:
                 <pre class="+ topic/pre pr-d/codeblock pre codeblock" id="unique_13_Connect_42_codeblock_uyj_dbt_kpb" nd:nd-id="codeblock_uyj_dbt_kpb" xml:space="preserve"><code>&lt;indexterm&gt;&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;
   &lt;index-sort-as&gt;Harry Potter&lt;/index-sort-as&gt;
@@ -510,8 +510,8 @@
                     <figure class="- topic/fig fig fignone" id="unique_16_Connect_42_fig_exj_jzr_jpb" nd:nd-id="fig_exj_jzr_jpb"><img class="- topic/image image" href="file:/C:/repozytoria/dita-l10n/images/memoq-create-view-dialog.png" id="unique_16_Connect_42_image_its_zhs_jpb" nd:nd-id="image_its_zhs_jpb" placement="inline" src="file:/C:/repozytoria/dita-l10n/images/memoq-create-view-dialog.png" alt="The 'Create view' dialog in memoQ"></img></figure>
                 </div>
             </li></ol></section>
-        <section class="- topic/section task/result section result" id="unique_16_Connect_42_result_uny_kzr_jpb" nd:nd-id="result_uny_kzr_jpb">Now you can work on a view containing all repeting
-            segments in your project.<figure class="- topic/fig fig fignone" id="unique_16_Connect_42_fig_jfc_b3s_jpb" nd:nd-id="fig_jfc_b3s_jpb"><img class="- topic/image image" href="file:/C:/repozytoria/dita-l10n/images/memoq-repetitions.png" id="unique_16_Connect_42_image_p3j_b3s_jpb" nd:nd-id="image_p3j_b3s_jpb" placement="inline" width="800" src="file:/C:/repozytoria/dita-l10n/images/memoq-repetitions.png" alt="An example memoQ view containing repetitions"></img></figure></section>
+        <section class="- topic/section task/result section result" id="unique_16_Connect_42_result_uny_kzr_jpb" nd:nd-id="result_uny_kzr_jpb">Now you can work on a view containing all repeating segments
+            in your project.<figure class="- topic/fig fig fignone" id="unique_16_Connect_42_fig_jfc_b3s_jpb" nd:nd-id="fig_jfc_b3s_jpb"><img class="- topic/image image" href="file:/C:/repozytoria/dita-l10n/images/memoq-repetitions.png" id="unique_16_Connect_42_image_p3j_b3s_jpb" nd:nd-id="image_p3j_b3s_jpb" placement="inline" width="800" src="file:/C:/repozytoria/dita-l10n/images/memoq-repetitions.png" alt="An example memoQ view containing repetitions"></img></figure></section>
     </div>
 <div class="wh_related_links"><nav role="navigation" class="- topic/related-links related-links"><div class="- topic/linklist linklist relinfo" outputclass="relinfo" xml:lang="en-US"><strong>Related information</strong><ul class="linklist"><li class="linklist"><a class="- topic/link link" format="dita" href="#unique_11" mapclass="- map/topicref " role="friend" scope="local" type="task" title="Learn how to import your DITA project into memoQ while preserving the project's folder structure.">Importing a DITA project</a></li></ul></div></nav></div></article></article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" class="- topic/topic reference/reference topic reference nested0" aria-labelledby="ariaid-title15" break-before="true" is-chapter="true" id="unique_17" topicrefclass="- map/topicref " nd:nd-id="r_glossary" oid="r_glossary" specializations="@props/deliveryTarget">
     <h1 class="- topic/title title topictitle1" id="ariaid-title15"><span class="- topic/ph topic/title-wrapper ph title-wrapper">Glossary</span></h1>

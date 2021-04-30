@@ -124,7 +124,7 @@
                 </ul></p>
         </section>
         <section class="- topic/section " id="unique_1_Connect_42_section_lnc_1kp_jpb" nd:nd-id="section_lnc_1kp_jpb">
-            <title class="- topic/title ">Formating</title>
+            <title class="- topic/title ">Formatting</title>
             <p class="- topic/p ">Search your text for unintended line breaks and punctuation marks (such as periods in
                 place of commas). <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_2" keyref="g_cat" type="glossentry"><?ditaot gentext?>CAT</abbreviated-form> tools may misinterpret such
                 characters and split sentences into separate units. This can lead to translation
@@ -150,8 +150,8 @@
             <p class="- topic/p ">While planning the localization of your project, it's important to identify
                 fragments you don't want to translate. These can include the following: <ul class="- topic/ul " id="unique_5_Connect_42_ul_rlp_qfm_kpb" nd:nd-id="ul_rlp_qfm_kpb">
                     <li class="- topic/li ">Proper names, such as brand names.</li>
-                    <li class="- topic/li ">Contact details (though you may need to translate for example country
-                        names).</li>
+                    <li class="- topic/li ">Contact details (though you may need to translate some details, for example
+                        country names).</li>
                     <li class="- topic/li ">UI text (if the UI has not been localized).</li>
                     <li class="- topic/li ">Code blocks (but you may want to translate comments in the code).</li>
                     <li class="- topic/li ">Legal text (you may need to handle it separately).</li>
@@ -164,7 +164,7 @@
             <title class="- topic/title ">UI text</title>
             <p class="- topic/p ">If your project contains UI terms, it's important to know whether the UI has been
                 translated, and into which languages. </p>
-            <p class="- topic/p ">If the UI hasn't been localized, you should let translators know how they should handle UI
+            <p class="- topic/p ">If the UI hasn't been localized, you should let translators know how to handle UI
                 text. For example, you may want them to follow each UI term with its translation in
                 brackets.</p>
         </section>
@@ -323,8 +323,8 @@
                     Enter</uicontrol> and type the name of the attribute you want to set.</note>
         </section>
         <section class="- topic/section " id="unique_7_Connect_42_section_gt2_zks_kpb" nd:nd-id="section_gt2_zks_kpb">
-            <title class="- topic/title ">Identifying content you don't want to translate</title>
-            <p class="- topic/p ">To identify an element you don't want to translate, set its
+            <title class="- topic/title ">Identifying content that you don't want to translate</title>
+            <p class="- topic/p ">To identify an element that you don't want to translate, set its
                     <codeph class="+ topic/ph pr-d/codeph ">translate</codeph> attribute to "no":
                 <codeblock class="+ topic/pre pr-d/codeblock " id="unique_7_Connect_42_codeblock_id5_mqs_kpb" nd:nd-id="codeblock_id5_mqs_kpb" xml:space="preserve">&lt;codeblock id="codeblock_spells" translate="no"&gt;
   let spellsLeft = 7;
@@ -346,8 +346,8 @@
             <p class="- topic/p ">In languages like English, you can easily sort lists by alphabetical order. But it's
                 not that simple in languages such as Japanese and Chinese. This is because the same
                 character can have different pronunciations depending on the meaning.</p>
-            <p class="- topic/p ">To specify text you want to use for sorting, add a <codeph class="+ topic/ph pr-d/codeph ">sort-as</codeph> element
-                inside a sorted element:
+            <p class="- topic/p ">To specify text that you want to use for sorting, add a <codeph class="+ topic/ph pr-d/codeph ">sort-as</codeph>
+                element inside a sorted element:
                 <codeblock class="+ topic/pre pr-d/codeblock " id="unique_13_Connect_42_codeblock_kyp_1xs_kpb" nd:nd-id="codeblock_kyp_1xs_kpb" xml:space="preserve">&lt;glossentry id="gloss-harry-potter"&gt;
   &lt;glossterm&gt;&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;&lt;/glossterm&gt;
   &lt;prolog&gt;
@@ -358,7 +358,7 @@
         </section>
         <section class="- topic/section " id="unique_13_Connect_42_section_og2_xvs_kpb" nd:nd-id="section_og2_xvs_kpb">
             <title class="- topic/title ">Sorting index terms using the index-sort-as element</title>
-            <p class="- topic/p ">You can adjust the storting order of index terms by adding the
+            <p class="- topic/p ">You can adjust the sorting order of index terms by adding the
                     <codeph class="+ topic/ph pr-d/codeph ">index-sort-as</codeph> element:
                 <codeblock class="+ topic/pre pr-d/codeblock " id="unique_13_Connect_42_codeblock_uyj_dbt_kpb" nd:nd-id="codeblock_uyj_dbt_kpb" xml:space="preserve">&lt;indexterm&gt;&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;
   &lt;index-sort-as&gt;Harry Potter&lt;/index-sort-as&gt;
@@ -583,8 +583,8 @@
                 </info>
             </step>
         </steps>
-        <result class="- topic/section task/result " id="unique_16_Connect_42_result_uny_kzr_jpb" nd:nd-id="result_uny_kzr_jpb">Now you can work on a view containing all repeting
-            segments in your project.<fig class="- topic/fig " id="unique_16_Connect_42_fig_jfc_b3s_jpb" nd:nd-id="fig_jfc_b3s_jpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/memoq-repetitions.png" id="unique_16_Connect_42_image_p3j_b3s_jpb" nd:nd-id="image_p3j_b3s_jpb" placement="inline" width="800">
+        <result class="- topic/section task/result " id="unique_16_Connect_42_result_uny_kzr_jpb" nd:nd-id="result_uny_kzr_jpb">Now you can work on a view containing all repeating segments
+            in your project.<fig class="- topic/fig " id="unique_16_Connect_42_fig_jfc_b3s_jpb" nd:nd-id="fig_jfc_b3s_jpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/memoq-repetitions.png" id="unique_16_Connect_42_image_p3j_b3s_jpb" nd:nd-id="image_p3j_b3s_jpb" placement="inline" width="800">
                     <alt class="- topic/alt ">An example memoQ view containing repetitions</alt>
                 </image></fig></result>
     </taskbody>
