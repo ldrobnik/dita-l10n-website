@@ -233,7 +233,7 @@
             <fig class="- topic/fig " id="unique_6_Connect_42_fig_cjc_mml_kpb" nd:nd-id="fig_cjc_mml_kpb"><title class="- topic/title ">A simple bilingual glossary developed in a spreadsheet editor</title><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/writing-glossary.png" id="unique_6_Connect_42_image_urr_4pl_kpb" nd:nd-id="image_urr_4pl_kpb" placement="inline">
                     <alt class="- topic/alt ">A simple bilingual glossary developed in a spreadsheet editor</alt>
                 </image></fig>
-            <p class="- topic/p ">Glossaries (called term bases) can albo be developed directly in a CAT tool. Most CAT
+            <p class="- topic/p ">Glossaries (called term bases) can also be developed directly in a CAT tool. Most CAT
                 tools have their own term base format, but you can use a universal format called
                 TermBase eXchange (TBX) to move term bases between different tools.</p>
         </section>
@@ -461,11 +461,11 @@
                 have legacy content containing a lot of references and need to localize it without
                 extensive rewriting.</p>
             <note class="- topic/note " id="unique_14_Connect_42_note_ahw_pwb_npb" nd:nd-id="note_ahw_pwb_npb" type="important">Once you resolve conrefs and keyrefs, they
-                no longer exist in the localized text. You should decide what brings more benefits.
-                If your project uses conrefs and keyrefs solely for non-translatable terms (such as
-                trademarks), it may be useful to keep them. On the other hand, if such references
-                point to single words or phrases, you may want to replace them with plain text to
-                improve translation quality.</note>
+                no longer exist in the localized text. You should decide which option brings more
+                benefits. If your project uses conrefs and keyrefs solely for non-translatable terms
+                (such as trademarks), it may be useful to keep them. On the other hand, if such
+                references point to single words or phrases, you may want to replace them with plain
+                text to improve translation quality.</note>
             <p class="- topic/p ">To resolve all conrefs and keyrefs in a topic in <term class="- topic/term " href="#unique_12" keyref="g_oxygen_xml_editor" type="glossentry"><?ditaot gentext?>oXygen XML Editor</term>, follow these steps:</p>
         </context>
         <steps class="- topic/ol task/steps " id="unique_14_Connect_42_steps_f5z_kx2_kpb" nd:nd-id="steps_f5z_kx2_kpb">

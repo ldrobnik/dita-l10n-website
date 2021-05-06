@@ -538,7 +538,7 @@
                                                   bilingual glossary developed in a spreadsheet
                                                   editor</span></figcaption><img alt="A simple bilingual glossary developed in a spreadsheet editor" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="A simple bilingual glossary developed in a spreadsheet editor" href="file:/C:/repozytoria/dita-l10n/images/writing-glossary.png" id="unique_6_Connect_42_image_urr_4pl_kpb" nd:nd-id="image_urr_4pl_kpb" placement="inline" src="file:/C:/repozytoria/dita-l10n/images/writing-glossary.png"><css:content-on-element><css:uri extracted-image-height="225" extracted-image-width="379" uri="file:/C:/repozytoria/dita-l10n/images/writing-glossary.png"/></css:content-on-element></img></figure>
                                         <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Glossaries
-                                            (called term bases) can albo be developed directly in a
+                                            (called term bases) can also be developed directly in a
                                             CAT tool. Most CAT tools have their own term base
                                             format, but you can use a universal format called
                                             TermBase eXchange (TBX) to move term bases between
@@ -963,13 +963,13 @@
                                             rewriting.</p>
                                         <div class="- topic/note note important note_important" css:background-color="rgba(255 , 202 , 45 , 0.1)" css:background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/important.svg')" css:background-position="0.5em 0.5em" css:background-repeat="no-repeat" css:border-bottom-color="rgb(255 , 202 , 45)" css:border-bottom-left-radius="11px" css:border-bottom-right-radius="11px" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(255 , 202 , 45)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(255 , 202 , 45)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(255 , 202 , 45)" css:border-top-left-radius="11px" css:border-top-right-radius="11px" css:border-top-style="solid" css:border-top-width="1px" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Note" css:padding-bottom="0.75em" css:padding-left="3em" css:padding-right="0.5em" css:padding-top="0.75em" id="unique_14_Connect_42_note_ahw_pwb_npb" nd:nd-id="note_ahw_pwb_npb" type="important"><span class="note__title" css:display="block" css:font-weight="bold" css:page-break-after="avoid">Important:</span> Once
                                             you resolve conrefs and keyrefs, they no longer exist in
-                                            the localized text. You should decide what brings more
-                                            benefits. If your project uses conrefs and keyrefs
-                                            solely for non-translatable terms (such as trademarks),
-                                            it may be useful to keep them. On the other hand, if
-                                            such references point to single words or phrases, you
-                                            may want to replace them with plain text to improve
-                                            translation quality.</div>
+                                            the localized text. You should decide which option
+                                            brings more benefits. If your project uses conrefs and
+                                            keyrefs solely for non-translatable terms (such as
+                                            trademarks), it may be useful to keep them. On the other
+                                            hand, if such references point to single words or
+                                            phrases, you may want to replace them with plain text to
+                                            improve translation quality.</div>
                                         <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">To resolve
                                             all conrefs and keyrefs in a topic in <a css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="#unique_12" css:oxy-alt-text="A popular XML editor offering advanced features for working with DITA content." href="#unique_12" title="A popular XML editor offering advanced features for working with DITA content."><dfn class="- topic/term term" css:display="inline" css:font-style="italic" css:link="#unique_12" href="#unique_12" keyref="g_oxygen_xml_editor" type="glossentry">oXygen XML
                                                 Editor</dfn></a>, follow these steps:</p>

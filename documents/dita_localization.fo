@@ -396,7 +396,7 @@
                                                   bilingual glossary developed in a spreadsheet
                                                   editor</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%" id="unique_6_Connect_42_image_urr_4pl_kpb" chfox:nd-id="image_urr_4pl_kpb"><fo:inline><fo:external-graphic src="file:/C:/repozytoria/dita-l10n/images/writing-glossary.png" fox:alt-text="A simple bilingual glossary developed in a spreadsheet editor" max-width="100%" scaling="uniform" width="379in div 96" content-width="scale-to-fit" height="225in div 96" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                         <fo:block-container space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Glossaries
-                                            (called term bases) can albo be developed directly in a
+                                            (called term bases) can also be developed directly in a
                                             CAT tool. Most CAT tools have their own term base
                                             format, but you can use a universal format called
                                             TermBase eXchange (TBX) to move term bases between
@@ -751,13 +751,13 @@
                                             rewriting.</fo:block></fo:block-container>
                                         <fo:block-container background-color="rgba(255 , 202 , 45 , 0.1)" background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/important.svg')" background-position-horizontal="0.5em" background-position-vertical="0.5em" background-repeat="no-repeat" border-bottom-color="rgb(255 , 202 , 45)" fox:border-after-start-radius="11px" fox:border-after-end-radius="11px" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(255 , 202 , 45)" border-left-style="solid" border-left-width="1px" margin-left="0" border-right-color="rgb(255 , 202 , 45)" border-right-style="solid" border-right-width="1px" margin-right="0" border-top-color="rgb(255 , 202 , 45)" fox:border-before-start-radius="11px" fox:border-before-end-radius="11px" border-top-style="solid" border-top-width="1px" space-after="1em" space-before="1em" padding-bottom="0.75em" padding-left="3em" padding-right="0.5em" padding-top="0.75em" id="unique_14_Connect_42_note_ahw_pwb_npb" chfox:nd-id="note_ahw_pwb_npb"><fo:block end-indent="0" start-indent="0" role="Note"><fo:block font-weight="bold" page-break-after="avoid">Important:</fo:block> Once
                                             you resolve conrefs and keyrefs, they no longer exist in
-                                            the localized text. You should decide what brings more
-                                            benefits. If your project uses conrefs and keyrefs
-                                            solely for non-translatable terms (such as trademarks),
-                                            it may be useful to keep them. On the other hand, if
-                                            such references point to single words or phrases, you
-                                            may want to replace them with plain text to improve
-                                            translation quality.</fo:block></fo:block-container>
+                                            the localized text. You should decide which option
+                                            brings more benefits. If your project uses conrefs and
+                                            keyrefs solely for non-translatable terms (such as
+                                            trademarks), it may be useful to keep them. On the other
+                                            hand, if such references point to single words or
+                                            phrases, you may want to replace them with plain text to
+                                            improve translation quality.</fo:block></fo:block-container>
                                         <fo:block-container space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">To resolve
                                             all conrefs and keyrefs in a topic in <fo:inline color="rgb(51 , 122 , 183)"><fo:inline font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_12">oXygen XML
                                                 Editor</fo:basic-link></fo:inline></fo:inline>, follow these steps:</fo:block></fo:block-container>
