@@ -1,0 +1,33 @@
+<html xtrf="file:/C:/repozytoria/dita-l10n/topics/c_preparing_dita_code_for_localization.dita" lang="en-US"><head><meta charset="UTF-8"></meta><meta name="copyright" content="(C) Copyright 2021"></meta><meta name="DC.rights.owner" content="(C) Copyright 2021"></meta>
+<link rel="stylesheet" type="text/css" href="file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css"></link>
+<link rel="stylesheet" type="text/css" href="file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css"></link>
+<link rel="stylesheet" type="text/css" href="file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css"></link>
+<link rel="stylesheet" type="text/css" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-with-colors.css"></link>
+<link rel="stylesheet" type="text/css" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css"></link>
+<link rel="stylesheet" type="text/css" href="file:/C:/repozytoria/dita-l10n/dita-l10n.css"></link>
+<meta name="generator" content="DITA-OT"></meta><meta name="DC.type" content="concept"></meta><meta name="description" content="Learn how to prepare your DITA code for localization using the xml:lang and translate attributes."></meta><meta name="DC.format" content="HTML5"></meta><meta name="DC.identifier" content="c_localization_related_attributes"></meta><meta name="DC.language" content="en-US"></meta><title>Preparing DITA code for localization</title></head><body class="wh_topic_page"><div class="wh_content_area"><div class="wh_topic_body"><div class="wh_topic_content"><div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic concept/concept topic concept" dir="ltr" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c_localization_related_attributes" specializations="@props/deliveryTarget" xml:lang="en-US" lang="en-US">
+    <h1 class="- topic/title title topictitle1" id="ariaid-title1"><span class="- topic/ph topic/title-wrapper ph title-wrapper">Preparing DITA code for localization</span></h1>
+    
+    <div class="- topic/body concept/conbody body conbody"><p class="- topic/shortdesc shortdesc">Learn how to prepare your DITA code for localization using the
+            <code class="+ topic/ph pr-d/codeph ph codeph">xml:lang</code> and <code class="+ topic/ph pr-d/codeph ph codeph">translate</code> attributes.</p>
+        <section class="- topic/section section" id="section_gm5_xks_kpb"><h2 class="- topic/title title sectiontitle">Setting the language of topics and maps</h2>
+            
+            <div class="- topic/p p">It's a best practice to specify the language of your DITA files, even if you're not
+                planning localization. To specify the language and country of a topic or map, set
+                the <code class="+ topic/ph pr-d/codeph ph codeph">xml:lang</code> attribute of its root element:
+                <pre class="+ topic/pre pr-d/codeblock pre codeblock" id="codeblock_gyh_4ns_kpb" xml:space="preserve"><code>&lt;concept id="c_magic" xml:lang="en-US"&gt;</code></pre></div>
+            <div class="- topic/note note tip note_tip" id="note_set_attr" type="tip"><span class="note__title">Tip:</span> To set an attribute of an element in <dfn class="- topic/term term" keyref="g_oxygen_xml_editor"></dfn>, select the element, press <span class="+ topic/ph ui-d/uicontrol ph uicontrol">Alt +
+                    Enter</span> and type the name of the attribute you want to set.</div>
+            <div class="- topic/note note note note_note" id="note_cmg_lqb_npb" type="note"><span class="note__title">Note:</span> You should apply a new language code
+                    <em class="+ topic/ph hi-d/i ph i">after</em> translation.</div>
+        </section>
+        <section class="- topic/section section" id="section_gt2_zks_kpb"><h2 class="- topic/title title sectiontitle">Identifying content that you don't want to translate</h2>
+            
+            <div class="- topic/p p">To identify an element that you don't want to translate, set its
+                    <code class="+ topic/ph pr-d/codeph ph codeph">translate</code> attribute to "no":
+                <pre class="+ topic/pre pr-d/codeblock pre codeblock" id="codeblock_id5_mqs_kpb" xml:space="preserve"><code>&lt;codeblock id="codeblock_spells" translate="no"&gt;
+  let spellsLeft = 7;
+&lt;/codeblock&gt;</code></pre></div>
+        </section>
+    </div>
+</div></div></div></div></body></html>
