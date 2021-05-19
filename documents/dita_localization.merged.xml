@@ -58,7 +58,7 @@
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
             <created class="- topic/created " date="2021-04-21"/>
-        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_resolving_conrefs_and_keyrefs"><resourceid appid="t_resolving_conrefs_and_keyrefs" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Resolving conrefs and keyrefs</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_resolving_conrefs_and_keyrefs"><resourceid appid="t_resolving_conrefs_and_keyrefs" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Resolving conrefs and keyrefs</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</shortdesc><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
         </copyright><critdates class="- topic/critdates ">
@@ -284,8 +284,8 @@
             <p class="- topic/p ">A logical folder structure will make localization much easier. Don't keep all files
                 in one folder. Instead, create separate folders for your topics, images, and other
                     content.<note class="- topic/note " id="unique_4_Connect_42_note_djz_ypn_kpb" nd:nd-id="note_djz_ypn_kpb" type="tip">To avoid publishing problems,
-                    always store your DITA maps at the same level or above your topics and
-                    images.</note></p>
+                    always store your DITA maps at the same level as your topics and images or above
+                    them.</note></p>
         </section>
         <section class="- topic/section " id="unique_4_Connect_42_section_tby_z4n_kpb" nd:nd-id="section_tby_z4n_kpb">
             <title class="- topic/title ">Prefixes vs. folders</title>
@@ -444,12 +444,12 @@
                 </ul></p>
             <note class="- topic/note " id="unique_10_Connect_42_note_rlw_htt_kpb" nd:nd-id="note_rlw_htt_kpb" type="tip">To avoid translation errors, it may be a good
                 idea to <xref class="- topic/xref " href="#unique_14" type="task"><?ditaot usertext?>resolve all conrefs and
-                    keyrefs<?ditaot genshortdesc?><desc class="- topic/desc ">Learn to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></xref> before localizing your project.</note>
+                    keyrefs<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></xref> before localizing your project.</note>
         </section>
     </conbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_14" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Resolving conrefs and keyrefs</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_4" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Project structure</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to structure your project to make localization easier.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_14" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Resolving conrefs and keyrefs</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></link></linkpool></related-links></concept><task class="- topic/topic task/task " dir="ltr" id="unique_14" topicrefclass="- map/topicref " nd:nd-id="t_resolving_conrefs_and_keyrefs" oid="t_resolving_conrefs_and_keyrefs" specializations="@props/deliveryTarget" xml:lang="en-US">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_14" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Resolving conrefs and keyrefs</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_4" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Project structure</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to structure your project to make localization easier.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_14" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Resolving conrefs and keyrefs</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to quickly replace content references and keyword references with relevant         content in oXygen XML Editor.</desc></link></linkpool></related-links></concept><task class="- topic/topic task/task " dir="ltr" id="unique_14" topicrefclass="- map/topicref " nd:nd-id="t_resolving_conrefs_and_keyrefs" oid="t_resolving_conrefs_and_keyrefs" specializations="@props/deliveryTarget" xml:lang="en-US">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Resolving conrefs and keyrefs</ph></title>
-    <shortdesc class="- topic/shortdesc ">Learn to quickly replace content references and keyword references with relevant
+    <shortdesc class="- topic/shortdesc ">Learn how to quickly replace content references and keyword references with relevant
         content in oXygen XML Editor.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Łukasz Drobnik</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2021"/>
             <copyrholder class="- topic/copyrholder ">Łukasz Drobnik</copyrholder>
@@ -485,7 +485,7 @@
                 <cmd class="- topic/ph task/cmd ">Go to <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;37:41" xtrf="file:/C:/repozytoria/dita-l10n/topics/t_resolving_conrefs_and_keyrefs.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">DITA</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Replace All References with Content</uicontrol></menucascade>.</cmd>
                 <info class="- topic/itemgroup task/info ">
                     <fig class="- topic/fig " id="unique_14_Connect_42_fig_jls_vx2_kpb" nd:nd-id="fig_jls_vx2_kpb"><image class="- topic/image " href="file:/C:/repozytoria/dita-l10n/images/oxygen-replace-references.png" id="unique_14_Connect_42_image_k4b_wx2_kpb" nd:nd-id="image_k4b_wx2_kpb" placement="inline" width="750">
-                            <alt class="- topic/alt ">'DITA' menu in oXygen with the 'Replace All References' with
+                            <alt class="- topic/alt ">'DITA' menu in oXygen with the 'Replace All References with
                                 Content' option</alt>
                         </image></fig>
                 </info>
