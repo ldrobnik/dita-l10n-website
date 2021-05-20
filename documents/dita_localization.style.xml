@@ -820,7 +820,7 @@
                                     </section>
                                     <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_13_Connect_42_section_tnw_xvs_kpb" nd:nd-id="section_tnw_xvs_kpb">
                                         <h3 class="- topic/title title sectiontitle" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Changing
-                                            text direction using the dir element</h3>
+                                            text direction using the dir attribute</h3>
                                         <div class="- topic/p p" css:display="block">English and
                                             many other languages use left-to-right (LTR) script. But
                                             there are many languages like Hebrew or Arabic that use
