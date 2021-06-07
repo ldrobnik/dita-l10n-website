@@ -421,8 +421,8 @@
                                             of non-translatable content</h3>
                                         <div class="- topic/p p" css:display="block">While planning
                                             the localization of your project, it's important to
-                                            identify fragments you don't want to translate. These
-                                            can include the following: <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_5_Connect_42_ul_rlp_qfm_kpb" nd:nd-id="ul_rlp_qfm_kpb">
+                                            identify fragments that you don't want to translate.
+                                            These can include the following: <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_5_Connect_42_ul_rlp_qfm_kpb" nd:nd-id="ul_rlp_qfm_kpb">
                                                 <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Proper
                                                   names, such as brand names.</li>
                                                 <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Contact

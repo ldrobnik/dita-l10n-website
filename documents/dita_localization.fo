@@ -250,8 +250,8 @@
                                             of non-translatable content</fo:block></fo:block-container>
                                         <fo:block>While planning
                                             the localization of your project, it's important to
-                                            identify fragments you don't want to translate. These
-                                            can include the following: <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em" id="unique_5_Connect_42_ul_rlp_qfm_kpb" chfox:nd-id="ul_rlp_qfm_kpb">
+                                            identify fragments that you don't want to translate.
+                                            These can include the following: <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em" id="unique_5_Connect_42_ul_rlp_qfm_kpb" chfox:nd-id="ul_rlp_qfm_kpb">
                                                 <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end" color="rgb(56 , 111 , 218)"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>Proper
                                                   names, such as brand names.</fo:block></fo:list-item-body></fo:list-item>
                                                 <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end" color="rgb(56 , 111 , 218)"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>Contact
